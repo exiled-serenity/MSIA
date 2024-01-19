@@ -1,0 +1,22 @@
+[
+    {
+        "title": "SquidBreak",
+        "panels": [
+            "1 start.png"
+        ],
+        "prattle": [
+            "You wake up locked in a deserted jail cell, completely alone. There is nothing at all in your cell, useful or otherwise. For some reason, you have a splitting headache, which you would really like to get rid of.",
+            "What do you do?"
+        ],
+        "next": "Callie eat the pumpkin",
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "10",
+            "minute": "51",
+            "half": "PM",
+            "zone": "EST"
+        }
+    }
+]

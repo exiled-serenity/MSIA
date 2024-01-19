@@ -1,0 +1,59 @@
+---
+pagination:
+    data: comicPages
+    size: 1
+    alias: comicPage
+permalink: "squidbreak/{{ pagination.pageNumber }}/index.html"
+---
+
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8"/>
+        <title>{{ comicPage.title }}</title>
+        <link rel="stylesheet" href="/css/comicPage.css"/>
+    </head>
+
+    <body>
+        <main class="pageFrame">
+            <div class="pageContent">
+                <section class="mediaContent">
+                    <h1 class="pageTitle">{{ comicPage.title }}</h1>
+                    <figure class="panels">
+                        {%- for filename in comicPage.panels -%}
+                            <img src="/images/{{ filename }}" alt />
+                        {%- endfor -%}
+                    </figure>
+                </section>
+                <section class="textContent">
+                    <div class="prattle">
+                        {%- for paragraph in comicPage.prattle -%}
+                            <p>{{ paragraph }}</p>
+                        {%- endfor -%}
+                    </div>
+                    <nav class="pageNavigation">
+                        {% if pagination.href.next %}
+                        <div class="nextArrow">
+                            <p> &gt; <a href="{{ pagination.href.next }}">
+                                {{ comicPage.next }}
+                            </a></p>
+                        </div>
+                        {% endif %}
+                        <div class="footerNav">
+                            <ul> 
+                                {% if pagination.href.previous %}
+                                <li><a href="{{ pagination.href.first }}">Start Over</a></li>
+                                <li><a href="{{ pagination.href.previous }}">Go Back</a></li>
+                                {% endif %}
+                            </ul>
+                            <ul class="meta">
+                                <li>{{ comicPage.time.month }}/{{ comicPage.time.day }}/{{ comicPage.time.year }}, 
+                                    {{ comicPage.time.hour }}:{{ comicPage.time.minute }} {{ comicPage.time.half }} {{ comicPage.time.zone }}</li>
+                                <li><a href="">Original Post</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </section>
+            </div>
+        </main>
+    </body>
+</html>
