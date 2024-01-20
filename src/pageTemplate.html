@@ -34,7 +34,7 @@ rootDir: "/MSIA"
                     <nav class="pageNavigation">
                         {% if pagination.href.next %}
                         <div class="nextArrow">
-                            <p> &gt; <a href="{{ pagination.href.next }}">
+                            <p> &gt; <a href="{{ rootDir }}/{{ pagination.href.next }}">
                                 {{ pagination.page.next.title }}
                             </a></p>
                         </div>
@@ -42,8 +42,8 @@ rootDir: "/MSIA"
                         <div class="footerNav">
                             <ul> 
                                 {% if pagination.href.previous %}
-                                <li><a href="{{ pagination.href.first }}">Start Over</a></li>
-                                <li><a href="{{ pagination.href.previous }}">Go Back</a></li>
+                                <li><a href="{{ rootDir }}/{{ pagination.href.first }}">Start Over</a></li>
+                                <li><a href="{{ rootDir }}/{{ pagination.href.previous }}">Go Back</a></li>
                                 {% endif %}
                             </ul>
                             <ul class="meta">
