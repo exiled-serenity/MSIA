@@ -10,7 +10,7 @@ permalink: "squidbreak/{{ pagination.pageNumber | plus: 1 }}/index.html"
     <head>
         <meta charset="utf-8"/>
         <title>{{ comicPage.title }}</title>
-        <link rel="stylesheet" href="/css/comicPage.css"/>
+        <link rel="stylesheet" href="css/comicPage.css"/>
     </head>
 
     <body>
@@ -20,7 +20,7 @@ permalink: "squidbreak/{{ pagination.pageNumber | plus: 1 }}/index.html"
                     <h1 class="pageTitle">{{ comicPage.title }}</h1>
                     <figure class="panels">
                         {%- for filename in comicPage.panels -%}
-                            <img src="/images/{{ filename }}" alt />
+                            <img src="images/{{ filename }}" alt />
                         {%- endfor -%}
                     </figure>
                 </section>
