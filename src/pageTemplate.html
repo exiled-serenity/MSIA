@@ -11,6 +11,14 @@ rootDir: "/MSIA"
     <head>
         <meta charset="utf-8"/>
         <title>{{ comicPage.title }}</title>
+        <meta name="description" content="Micro Squid Ink Adventures - SquidBreak"/>
+
+        <meta property="og:title" content="{{ comicPage.title }}"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:image" content="{{ rootDir }}/images/{{ comicPage.panels[0] }}"/>
+        <meta property="og:url" content="{{ permalink }}"/>
+        <meta property="og:description" content="Micro Squid Ink Adventures - SquidBreak"/>
+        
         <link rel="stylesheet" href="{{ rootDir }}/css/comicPage.css"/>
     </head>
 
