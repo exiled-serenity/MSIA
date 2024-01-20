@@ -35,7 +35,7 @@ rootDir: "/MSIA"
                         {% if pagination.href.next %}
                         <div class="nextArrow">
                             <p> &gt; <a href="{{ pagination.href.next }}">
-                                {{ comicPage.next }}
+                                {{ pagination.page.next.title }}
                             </a></p>
                         </div>
                         {% endif %}
@@ -49,7 +49,7 @@ rootDir: "/MSIA"
                             <ul class="meta">
                                 <li>{{ comicPage.time.month }}/{{ comicPage.time.day }}/{{ comicPage.time.year }}, 
                                     {{ comicPage.time.hour }}:{{ comicPage.time.minute }} {{ comicPage.time.half }} {{ comicPage.time.zone }}</li>
-                                <li><a href="">Original Post</a></li>
+                                <!--<li><a href="{{ comicPage.OPLink }}">Original Post</a></li>-->
                             </ul>
                         </div>
                     </nav>

@@ -8,15 +8,96 @@
             "You wake up locked in a deserted jail cell, completely alone. There is nothing at all in your cell, useful or otherwise. For some reason, you have a splitting headache, which you would really like to get rid of.",
             "What do you do?"
         ],
-        "next": "Callie eat the pumpkin",
         "time": {
             "year": "2024",
             "month": "01",
-            "day": "17",
+            "day": "16",
             "hour": "10",
             "minute": "51",
             "half": "PM",
             "zone": "EST"
-        }
+        },
+        "Poster": "p0psicles",
+        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197025500229546135"
+    },
+    {
+        "title": "Callie eat the pumpkin",
+        "panels": [
+            "1 start.png"
+        ],
+        "prattle": [
+            "Wait, seriously?"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "10",
+            "minute": "59",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "Poster": "p0psicles",
+        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027327750717550"
+    },
+    {
+        "title": "Eat the pumpkin Callie eat it",
+        "panels": [
+            "1 start.png"
+        ],
+        "prattle": [
+            "No, like, do you not—"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "10",
+            "minute": "59",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "Poster": "p0psicles",
+        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027356573970442"
+    },
+    {
+        "title": "EAT THE PUMPKIN CALLIE",
+        "panels": [
+            "1 start.png"
+        ],
+        "prattle": [
+            "Alright, well if you're really going to just go right for it, then I guess I have no choice."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "00",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "Poster": "p0psicles",
+        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027571196493824"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "2 eat the pumpkin.png"
+        ],
+        "prattle": [
+            "What Pumpkin?"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "08",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "Poster": "exiled-serenity",
+        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197029579857072140"
     }
 ]
