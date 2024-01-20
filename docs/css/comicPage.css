@@ -1,0 +1,120 @@
+* {
+    margin:0;
+}
+
+body {
+    background-color: #DDDDDD;
+    font-family: "Courier New", courier, monospace;
+    color: black;
+    font-size: 14px;
+    font-weight: bolder;
+    overflow-wrap: break-word;
+}
+
+main.pageFrame, div.pageContent, section.mediaContent, figure.panels {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+main.pageFrame, div.pageContent {
+    flex-basis: auto;
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+main.pageFrame {
+    justify-content: center;
+    margin: 0 auto;
+    padding: 7px 0 23px;
+    position: relative;
+    width: 950px;
+    background-color: #EEEEEE;
+}
+
+div.pageContent {
+    background-color: #FFFFFF;
+    max-width: 950px;
+    min-width: 650px;
+}
+
+section.mediaContent h1.pageTitle {
+    font-size: 32px;
+    line-height: 1.1;
+    max-width: 590px;
+    padding: 15px 0;
+    text-align: center;
+}
+
+section.mediaContent figure.panels {
+    image-rendering: pixelated;
+}
+
+section.textContent {
+    margin-top: 30px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+section.textContent div.prattle p {
+    font-size: 1em;
+    line-height: 1.15;
+    width: 600px;
+    margin: 0 0 30px;
+    text-align: center;
+}
+
+nav.pageNavigation {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+nav.pageNavigation div.nextArrow {
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+nav.pageNavigation a {
+    color: rgb(0,0,238);
+    text-decoration-color: rgb(0,0,238);
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    cursor: pointer;
+}
+
+nav.pageNavigation div.footerNav {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    line-height: 10px;
+    font-size: 10px;
+}
+
+nav.pageNavigation div.footerNav ul {
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    padding: 0 0 15px;
+}
+
+nav.pageNavigation div.footerNav ul li {
+    float: left;
+}
+
+nav.pageNavigation div.footerNav ul li:not(:last-child):after {
+    content: "|";
+    margin: 0 0.3em;
+}
+
+nav.pageNavigation div.footerNav ul.meta, nav.pageNavigation div.footerNav ul.meta a {
+    color: rgb(83,83,83);
+    font-weight: 300;
+    text-decoration-color: rgb(83,83,83);
+    text-decoration-line: none;
+}
+
+nav.pageNavigation div.footerNav ul.meta a:hover {
+    text-decoration-line: underline;
+}
