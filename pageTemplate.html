@@ -3,7 +3,7 @@ pagination:
     data: comicPages
     size: 1
     alias: comicPage
-permalink: "squidbreak/{{ pagination.pageNumber }}/index.html"
+permalink: "squidbreak/{{ pagination.pageNumber | plus: 1 }}/index.html"
 ---
 
 <html lang="en-US">
