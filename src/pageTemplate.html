@@ -3,7 +3,7 @@ pagination:
     data: comicPages
     size: 1
     alias: comicPage
-permalink: "squidbreak/{{ pagination.pageNumber | plus: 1 }}/index.html"
+permalink: "squidbreak/{{ pagination.pageNumber }}/index.html"
 rootDir: "/MSIA"
 ---
 
@@ -34,7 +34,7 @@ rootDir: "/MSIA"
                     <nav class="pageNavigation">
                         {% if pagination.href.next %}
                         <div class="nextArrow">
-                            <p> &gt; <a href="{{ rootDir }}/{{ pagination.href.next }}">
+                            <p> &gt; <a href="{{ rootDir }}{{ pagination.href.next }}">
                                 {{ pagination.page.next.title }}
                             </a></p>
                         </div>
@@ -42,14 +42,14 @@ rootDir: "/MSIA"
                         <div class="footerNav">
                             <ul> 
                                 {% if pagination.href.previous %}
-                                <li><a href="{{ rootDir }}/{{ pagination.href.first }}">Start Over</a></li>
-                                <li><a href="{{ rootDir }}/{{ pagination.href.previous }}">Go Back</a></li>
+                                <li><a href="{{ rootDir }}{{ pagination.hrefs[1] }}">Start Over</a></li>
+                                <li><a href="{{ rootDir }}{{ pagination.href.previous }}">Go Back</a></li>
                                 {% endif %}
                             </ul>
                             <ul class="meta">
                                 <li>{{ comicPage.time.month }}/{{ comicPage.time.day }}/{{ comicPage.time.year }}, 
                                     {{ comicPage.time.hour }}:{{ comicPage.time.minute }} {{ comicPage.time.half }} {{ comicPage.time.zone }}</li>
-                                <!--<li><a href="{{ comicPage.OPLink }}">Original Post</a></li>-->
+                                <li>{{ comicPage.poster }}</li>
                             </ul>
                         </div>
                     </nav>

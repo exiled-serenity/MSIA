@@ -1,8 +1,27 @@
 [
     {
+        "title": "",
+        "panels": [
+            "Callie Jailbreak.png"
+        ],
+        "prattle": [
+            "..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "10",
+            "minute": "35",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "exiled-serenity"
+    },
+    {
         "title": "SquidBreak",
         "panels": [
-            "1 start.png"
+            "1.png"
         ],
         "prattle": [
             "You wake up locked in a deserted jail cell, completely alone. There is nothing at all in your cell, useful or otherwise. For some reason, you have a splitting headache, which you would really like to get rid of.",
@@ -17,13 +36,12 @@
             "half": "PM",
             "zone": "EST"
         },
-        "Poster": "p0psicles",
-        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197025500229546135"
+        "poster": "exiled-serenity"
     },
     {
         "title": "Callie eat the pumpkin",
         "panels": [
-            "1 start.png"
+            "1.png"
         ],
         "prattle": [
             "Wait, seriously?"
@@ -37,13 +55,12 @@
             "half": "PM",
             "zone": "EST"
         },
-        "Poster": "p0psicles",
-        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027327750717550"
+        "poster": "p0psicles"
     },
     {
         "title": "Eat the pumpkin Callie eat it",
         "panels": [
-            "1 start.png"
+            "1.png"
         ],
         "prattle": [
             "No, like, do you not—"
@@ -57,13 +74,12 @@
             "half": "PM",
             "zone": "EST"
         },
-        "Poster": "p0psicles",
-        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027356573970442"
+        "poster": "p0psicles"
     },
     {
         "title": "EAT THE PUMPKIN CALLIE",
         "panels": [
-            "1 start.png"
+            "1.png"
         ],
         "prattle": [
             "Alright, well if you're really going to just go right for it, then I guess I have no choice."
@@ -77,13 +93,12 @@
             "half": "PM",
             "zone": "EST"
         },
-        "Poster": "p0psicles",
-        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197027571196493824"
+        "poster": "p0psicles"
     },
     {
         "title": "ミ:匚＞",
         "panels": [
-            "2 eat the pumpkin.png"
+            "2.png"
         ],
         "prattle": [
             "What Pumpkin?"
@@ -97,7 +112,264 @@
             "half": "PM",
             "zone": "EST"
         },
-        "Poster": "exiled-serenity",
-        "OPLink": "https://discord.com/channels/907302748930854913/1197025500229546135/1197029579857072140"
+        "poster": "exiled-serenity"
+    },
+    {
+        "title": "Yell for help. Maybe Marie is nearby?",
+        "panels": [
+            "3.png"
+        ],
+        "prattle": [
+            "Despite your bellowing, Marie casually opens the door and leaves."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "15",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "Lie down on the floor and cry",
+        "panels": [
+            "4.png"
+        ],
+        "prattle": [
+            "You try to lie down on the floor and cry, but you can't seem to get comfortable, and your tears don't come very naturally at all!",
+            "It must be all this dirt lying around everywhere. You can't think of a single other reason."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "27",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "THERE. THE PUMPKIN. CALLIE GET IT",
+        "panels": [
+            "4.png"
+        ],
+        "prattle": [
+            "What p—"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "33",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
+    },
+    {
+        "title": "Uhh I mean Callie walk like five paces backwards, then turn around, then open your mouth and slam head into ground",
+        "panels": [
+            "5.png"
+        ],
+        "prattle": [
+            "I beg your pardon?"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "16",
+            "hour": "11",
+            "minute": "39",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
+    },
+    {
+        "title": "See if you can get through the bars in squid form!",
+        "panels": [
+            "6.1.png",
+            "6.2.png",
+            "6.3.png"
+        ],
+        "prattle": [
+            "Your clumsy tentacle accidentally flies through the bars, knocking out Marie (or was it Mary?), who'd had a change of heart.",
+            "Wow, what a mess you've made. Someone really needs to keep you on a leash!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "12",
+            "minute": "01",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "SHES FUCKING DEAD!?",
+        "panels": [
+            "11.png"
+        ],
+        "prattle": [
+            "That is not a command!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "12",
+            "minute": "07",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "Yell out an apology and ask if Mary/ie is alright",
+        "panels": [
+            "7.png"
+        ],
+        "prattle": [
+            "She's unconcious!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "12",
+            "minute": "15",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "Callie you must cry in a corner. REPENT",
+        "panels": [
+            "8.png"
+        ],
+        "prattle": [
+            "Again with the dirt! Something is definitely off about this place. And you're going to get to the bottom of it or your name isn't that thing that your name is."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "12",
+            "minute": "23",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
+    },
+    {
+        "title": "What’s back ther.e. Eat that thang like the pumpkin",
+        "panels": [
+            "9.1.png",
+            "9.2.png"
+        ],
+        "prattle": [
+            "As you turn around for no particular reason that you can recall, you notice the door to this cell, which of course has been unlocked this whole time."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "12",
+            "minute": "23",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "gatored"
+    },
+    {
+        "title": "Super jump through the bars of the door for a stylish escape",
+        "panels": [
+            "10.1.png",
+            "10.2.png",
+            "10.3.png",
+            "10.4.png"
+        ],
+        "prattle": [
+            "You try to super jump through the bars, but for some reason, you just hit your head on the door. Only once you've fallen back to the ground do you look back to the other side of the room and realize that the door was obviously just reflecting the bars over there.",
+            "You've really got to get your eyes checked!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "01",
+            "minute": "04",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "EAT THE PUMPKIN… IT WILL HEAL U",
+        "panels": [
+            "11.png"
+        ],
+        "prattle": [
+            "You're quite certain there has never been, and never will be, a pumpkin in this room!",
+            "Besides, you are much more concerned with your inexplicable headache, which has only gotten worse since hitting your head just now."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "01",
+            "minute": "14",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "gatored"
+    },
+    {
+        "title": "scream in agony and/or frustration, then maybe smile through the pain once that's out of your system",
+        "panels": [
+            "12.png"
+        ],
+        "prattle": [
+            "You scream so hard you topple backwards over the pumpkin. As you lie on the floor looking up, you smile through the pain.",
+            "After all, besides the searing headache that probably isn't actually as big a deal as you're making it out to be and also probably doesn't exist because you're not seeing or hearing anything unusual, you're doing great!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "01",
+            "minute": "27",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb"
+    },
+    {
+        "title": "OH THE PUMPKIN EXISTS. EAT IT",
+        "panels": [
+            "13.png"
+        ],
+        "prattle": [
+            "You wake up next to a broken ladder. You are covered in purple ink."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "17",
+            "hour": "01",
+            "minute": "30",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
     }
 ]
