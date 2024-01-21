@@ -76,7 +76,7 @@ nav.pageNavigation div.nextArrow {
     font-weight: 400;
 }
 
-nav.pageNavigation a {
+a {
     color: rgb(0,0,238);
     text-decoration-color: rgb(0,0,238);
     text-decoration-line: underline;

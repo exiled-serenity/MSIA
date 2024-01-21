@@ -208,7 +208,7 @@
             "day": "17",
             "hour": "12",
             "minute": "01",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "mothbomb"
@@ -227,7 +227,7 @@
             "day": "17",
             "hour": "12",
             "minute": "07",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "mothbomb"
@@ -246,7 +246,7 @@
             "day": "17",
             "hour": "12",
             "minute": "15",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "mothbomb"
@@ -265,7 +265,7 @@
             "day": "17",
             "hour": "12",
             "minute": "23",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "p0psicles"
@@ -285,7 +285,7 @@
             "day": "17",
             "hour": "12",
             "minute": "23",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "gatored"
@@ -308,7 +308,7 @@
             "day": "17",
             "hour": "01",
             "minute": "04",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "mothbomb"
@@ -328,7 +328,7 @@
             "day": "17",
             "hour": "01",
             "minute": "14",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "gatored"
@@ -348,7 +348,7 @@
             "day": "17",
             "hour": "01",
             "minute": "27",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "mothbomb"
@@ -367,9 +367,29 @@
             "day": "17",
             "hour": "01",
             "minute": "30",
-            "half": "PM",
+            "half": "AM",
             "zone": "EST"
         },
         "poster": "p0psicles"
+    },
+    {
+        "title": "investigate wounds",
+        "panels": [
+            "19.png"
+        ],
+        "prattle": [
+            "Yep, that's Callie's ink, alright. Although it has a weird smell to it... Maybe it's actually Octarian ink? Yeah, that's probably it.",
+            "In any case, it's all over you, which makes sense she shot you with it just now. Ew, there's a bunch stuck to your shoe too!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "21",
+            "hour": "01",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence"
     }
 ]
