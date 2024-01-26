@@ -391,5 +391,24 @@
             "zone": "EST"
         },
         "poster": "underFlorence"
+    },
+    {
+        "title": "Collect the ink and shape it into a new Callie",
+        "panels": [
+            "20.png"
+        ],
+        "prattle": [
+            "Well that didn't work. Now all you have is a big purple puddle of being sad."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "23",
+            "hour": "06",
+            "minute": "24",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "mariescringefailwaifu"
     }
 ]
