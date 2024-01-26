@@ -410,5 +410,24 @@
             "zone": "EST"
         },
         "poster": "mariescringefailwaifu"
+    },
+    {
+        "title": "try door",
+        "panels": [
+            "21.png"
+        ],
+        "prattle": [
+            "The door is locked, just like it has been all day. You're not sure why you keep expecting this to change."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "25",
+            "hour": "09",
+            "minute": "33",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence"
     }
 ]
