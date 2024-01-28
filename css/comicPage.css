@@ -47,7 +47,7 @@ div.pageContent {
     min-width: 650px;
 }
 
-section.mediaContent h1.pageTitle {
+h1.pageTitle {
     font-size: 32px;
     line-height: 1.1;
     max-width: 590px;
@@ -136,4 +136,18 @@ footer {
 
 img {
     image-rendering: pixelated;
+}
+
+nav.logItems {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+a.switchOrder {
+    padding-left: 30px;
+    align-self: self-start;
 }

@@ -2,20 +2,22 @@
 pagination:
     data: comicPages
     size: 1
-    alias: comicPage
+    alias: thisComicPage
+    addAllPagesToCollections: true
 permalink: "squidbreak/{{ pagination.pageNumber }}/index.html"
 rootDir: "/MSIA"
+tags: comicPage
 ---
 
 <html lang="en-US">
     <head>
         <meta charset="utf-8"/>
-        <title>{{ comicPage.title }}</title>
+        <title>{{ thisComicPage.title }} - SquidBreak</title>
         <meta name="description" content="Micro Squid Ink Adventures - SquidBreak"/>
 
-        <meta property="og:title" content="{{ comicPage.title }}"/>
+        <meta property="og:title" content="{{ thisComicPage.title }}"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:image" content="{{ rootDir }}/images/{{ comicPage.panels[0] }}"/>
+        <meta property="og:image" content="{{ rootDir }}/images/{{ thisComicPage.panels[0] }}"/>
         <meta property="og:url" content="squidbreak/{{ pagination.pageNumber }}/index.html"/>
         <meta property="og:description" content="Micro Squid Ink Adventures - SquidBreak"/>
         
@@ -27,16 +29,16 @@ rootDir: "/MSIA"
         <main class="pageFrame">
             <div class="pageContent">
                 <section class="mediaContent">
-                    <h1 class="pageTitle">{{ comicPage.title }}</h1>
+                    <h1 class="pageTitle">{{ thisComicPage.title }}</h1>
                     <figure class="panels">
-                        {%- for filename in comicPage.panels -%}
+                        {%- for filename in thisComicPage.panels -%}
                             <img src="{{ rootDir }}/images/{{ filename }}" width="782" height="543" alt />
                         {%- endfor -%}
                     </figure>
                 </section>
                 <section class="textContent">
                     <div class="prattle">
-                        {%- for paragraph in comicPage.prattle -%}
+                        {%- for paragraph in thisComicPage.prattle -%}
                             <p>{{ paragraph }}</p>
                         {%- endfor -%}
                     </div>
@@ -53,12 +55,13 @@ rootDir: "/MSIA"
                                 {% if pagination.href.previous %}
                                 <li><a href="{{ rootDir }}{{ pagination.hrefs[1] }}">Start Over</a></li>
                                 <li><a href="{{ rootDir }}{{ pagination.href.previous }}">Go Back</a></li>
+                                <li><a href="{{ rootDir }}/squidbreak/log/">Adventure Log</a></li>
                                 {% endif %}
                             </ul>
                             <ul class="meta">
-                                <li>{{ comicPage.time.month }}/{{ comicPage.time.day }}/{{ comicPage.time.year }}, 
-                                    {{ comicPage.time.hour }}:{{ comicPage.time.minute }} {{ comicPage.time.half }} {{ comicPage.time.zone }}</li>
-                                <li>{{ comicPage.poster }}</li>
+                                <li>{{ thisComicPage.time.month }}/{{ thisComicPage.time.day }}/{{ thisComicPage.time.year }}, 
+                                    {{ thisComicPage.time.hour }}:{{ thisComicPage.time.minute }} {{ thisComicPage.time.half }} {{ thisComicPage.time.zone }}</li>
+                                <li>{{ thisComicPage.poster }}</li>
                             </ul>
                         </div>
                     </nav>
