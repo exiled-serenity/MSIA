@@ -490,5 +490,24 @@
             "zone": "EST"
         },
         "poster": "xtravisage"
+    },
+    {
+        "title": "Take a breath.",
+        "panels": [
+            "25.png"
+        ],
+        "prattle": [
+            "Ah, that's better. There's nothing like a big gulp of fresh air to clear your head and recover your HP. Or, well as fresh as it gets down here, anyway."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "28",
+            "hour": "01",
+            "minute": "01",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
     }
 ]
