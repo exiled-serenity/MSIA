@@ -429,5 +429,26 @@
             "zone": "EST"
         },
         "poster": "underFlorence"
+    },
+    {
+        "title": "try going through the keyhole in squid form, grate style!",
+        "panels": [
+            "22.1.png",
+            "22.2.png"
+        ],
+        "prattle": [
+            "Upon closer examination, you realize that isn't actually a keyhole at all. It's just drawn on the door.",
+            "It's just as well, anyway. It's got that same weird smell as Callie's ink, and you're not sure if you can deal with that right now."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "26",
+            "hour": "12",
+            "minute": "07",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo"
     }
 ]
