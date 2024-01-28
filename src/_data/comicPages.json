@@ -458,7 +458,8 @@
             "23.2.png"
         ],
         "prattle": [
-            "You try to punch down the door, but you forget that there's no window for this door to reflect. Your fist accidentally flies through the bars an into the face of a random passer-by. Keys from his key ring jangle on the floor."
+            "You try to punch down the door, but you forget that this door isn't reflecting any windows and accidentally send your fist flying through the bars!",
+            "It connects with the face of a random passer-by. Keys from his key ring jangle on the floor."
         ],
         "time": {
             "year": "2024",
@@ -477,7 +478,7 @@
             "24.gif"
         ],
         "prattle": [
-            "All this physical movement is really getting you winded! Your VIGOR NEXUS accrues one FALLEN BREATH."
+            "All this flailing around is really getting you winded! Your VIGOR NEXUS accrues one FALLEN BREATH."
         ],
         "time": {
             "year": "2024",
