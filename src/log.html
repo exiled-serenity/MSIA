@@ -23,7 +23,7 @@ rootDir: "/MSIA"
         <meta property="og:description" content="Micro Squid Ink Adventures - SquidBreak"/>
         
         <link rel="stylesheet" href="{{ rootDir }}/css/comicPage.css"/>
-        <link rel="icon" type="image/x-icon" href="{{rootDir}}/images/favicon.ico"/>
+        <link rel="icon" type="image/x-icon" href="{{ rootDir }}/images/favicon.ico"/>
     </head>
 
     <body>
@@ -31,16 +31,16 @@ rootDir: "/MSIA"
             <div class="pageContent">
                 <h1 class="pageTitle">Adventure Log</h1>
                 {% if displayStyle=="asc" %}
-                    <a href="{{ pagination.href.first }}" class="switchOrder">View newest to oldest</a>
+                    <a href="{{ rootDir }}{{ pagination.href.first }}" class="switchOrder">View newest to oldest</a>
                 {% else %}
-                    <a href="{{ pagination.href.last }}" class="switchOrder">View oldest to newest</a>
+                    <a href="{{ rootDir }}{{ pagination.href.last }}" class="switchOrder">View oldest to newest</a>
                 {% endif %}
                 <nav class="logItems">
                     {% if displayStyle=="asc" %}
                         {% for comicPage in collections.comicPage %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                             {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
-                            <a href="{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
+                            <a href="{{ rootDir }}{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
                             <br/>
                             {% endif %}
                         {% endfor %}
@@ -48,7 +48,7 @@ rootDir: "/MSIA"
                         {% for comicPage in collections.comicPage reversed %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                                 {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
-                                <a href="{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
+                                <a href="{{ rootDir }}{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
                                 <br/>
                             {% endif %}
                         {% endfor %}
