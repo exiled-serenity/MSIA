@@ -9,6 +9,14 @@ body {
     font-size: 14px;
     font-weight: bolder;
     overflow-wrap: break-word;
+
+    display: flex;
+    flex-basis: auto;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 main.pageFrame, div.pageContent, section.mediaContent, figure.panels {
