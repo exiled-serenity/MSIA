@@ -450,5 +450,44 @@
             "zone": "EST"
         },
         "poster": "julia_pseudo"
+    },
+    {
+        "title": "Punch down the door!",
+        "panels": [
+            "23.1.png",
+            "23.2.png"
+        ],
+        "prattle": [
+            "You try to punch down the door, but you forget that there's no window for this door to reflect. Your fist accidentally flies through the bars an into the face of a random passer-by. Keys from his key ring jangle on the floor."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "27",
+            "hour": "7",
+            "minute": "18",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "24.gif"
+        ],
+        "prattle": [
+            "All this physical movement is really getting you winded! Your VIGOR NEXUS accrues one FALLEN BREATH."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "27",
+            "hour": "11",
+            "minute": "04",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles"
     }
 ]
