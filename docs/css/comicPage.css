@@ -3,9 +3,16 @@
 }
 
 body {
-    background-color: #DDDDDD;
+    --bodybg: #DDD;
+    --framebg: #EEE;
+    --contentbg: #FFF;
+    --textcolor: black;
+    --linkcolor: rgb(0,0,238);
+    --lighttextcolor: rgb(83,83,83);
+
+    background-color: var(--bodybg);
     font-family: "Courier New", courier, monospace;
-    color: black;
+    color: var(--textcolor);
     font-size: 14px;
     font-weight: bolder;
     overflow-wrap: break-word;
@@ -17,6 +24,15 @@ body {
     flex-shrink: 0;
     flex-wrap: nowrap;
     align-items: center;
+}
+
+.sarah {
+    --bodybg: black;
+    --framebg: rgb(255,180,200);
+    --contentbg: #FFF;
+    --textcolor: black;
+    --linkcolor: #bd1864;
+    --lighttextcolor: rgb(83,83,83);
 }
 
 main.pageFrame, div.pageContent, section.mediaContent, figure.panels {
@@ -38,11 +54,11 @@ main.pageFrame {
     padding: 7px 0 23px;
     position: relative;
     width: 950px;
-    background-color: #EEEEEE;
+    background-color: var(--framebg);
 }
 
 div.pageContent {
-    background-color: #FFFFFF;
+    background-color: var(--contentbg);
     max-width: 950px;
     min-width: 650px;
 }
@@ -81,8 +97,8 @@ nav.pageNavigation div.nextArrow {
 }
 
 a {
-    color: rgb(0,0,238);
-    text-decoration-color: rgb(0,0,238);
+    color: var(--linkcolor);
+    text-decoration-color: var(--linkcolor);
     text-decoration-line: underline;
     text-decoration-style: solid;
     cursor: pointer;
@@ -113,9 +129,9 @@ nav.pageNavigation div.footerNav ul li:not(:last-child):after {
 }
 
 nav.pageNavigation div.footerNav ul.meta, nav.pageNavigation div.footerNav ul.meta a {
-    color: rgb(83,83,83);
+    color: var(--lighttextcolor);
     font-weight: 300;
-    text-decoration-color: rgb(83,83,83);
+    text-decoration-color: var(--lighttextcolor);
     text-decoration-line: none;
 }
 

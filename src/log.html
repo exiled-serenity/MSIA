@@ -7,7 +7,6 @@ displayStyles:
  - desc
  - asc
 permalink: "squidbreak/log_{{ displayStyle }}/index.html"
-rootDir: "/MSIA"
 ---
 
 <html lang="en-US">
@@ -18,12 +17,12 @@ rootDir: "/MSIA"
 
         <meta property="og:title" content="Adventure Log"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:image" content="{{ rootDir }}/images/logo.png"/>
+        <meta property="og:image" content="{{ globalData.rootDir }}/images/logo.png"/>
         <meta property="og:url" content="squidbreak/log_{{ displayStyle }}/index.html"/>
         <meta property="og:description" content="Micro Squid Ink Adventures - SquidBreak"/>
         
-        <link rel="stylesheet" href="{{ rootDir }}/css/comicPage.css"/>
-        <link rel="icon" type="image/x-icon" href="{{ rootDir }}/images/favicon.ico"/>
+        <link rel="stylesheet" href="{{ globalData.rootDir }}/css/comicPage.css"/>
+        <link rel="icon" type="image/x-icon" href="{{ globalData.rootDir }}/images/favicon.ico"/>
     </head>
 
     <body>
@@ -31,16 +30,16 @@ rootDir: "/MSIA"
             <div class="pageContent">
                 <h1 class="pageTitle">Adventure Log</h1>
                 {% if displayStyle=="asc" %}
-                    <a href="{{ rootDir }}{{ pagination.href.first }}" class="switchOrder">View newest to oldest</a>
+                    <a href="{{ globalData.rootDir }}{{ pagination.href.first }}" class="switchOrder">View newest to oldest</a>
                 {% else %}
-                    <a href="{{ rootDir }}{{ pagination.href.last }}" class="switchOrder">View oldest to newest</a>
+                    <a href="{{ globalData.rootDir }}{{ pagination.href.last }}" class="switchOrder">View oldest to newest</a>
                 {% endif %}
                 <nav class="logItems">
                     {% if displayStyle=="asc" %}
                         {% for comicPage in collections.comicPage %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                             {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
-                            <a href="{{ rootDir }}{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
+                            <a href="{{ globalData.rootDir }}{{ comicPage.page.url }}" class="{{ comicPage.data.thisComicPage.theme }}">{{ comicPage.data.thisComicPage.title }}</a>
                             <br/>
                             {% endif %}
                         {% endfor %}
@@ -48,7 +47,7 @@ rootDir: "/MSIA"
                         {% for comicPage in collections.comicPage reversed %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                                 {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
-                                <a href="{{ rootDir }}{{ comicPage.page.url }}">{{ comicPage.data.thisComicPage.title }}</a>
+                                <a href="{{ globalData.rootDir }}{{ comicPage.page.url }}" class="{{ comicPage.data.thisComicPage.theme }}">{{ comicPage.data.thisComicPage.title }}</a>
                                 <br/>
                             {% endif %}
                         {% endfor %}
@@ -57,8 +56,8 @@ rootDir: "/MSIA"
             </div>
         </main>
         <footer>
-            <img src="{{ rootDir }}/images/logo.png" width="88px" height="91px" alt="logo"/>
-            <img src="{{ rootDir }}/images/logo.png" width="88px" height="91px" alt="logo"/>
+            <img src="{{ globalData.rootDir }}/images/logo.png" width="88px" height="91px" alt="logo"/>
+            <img src="{{ globalData.rootDir }}/images/logo.png" width="88px" height="91px" alt="logo"/>
         </footer>
     </body>
 </html>
