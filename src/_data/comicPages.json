@@ -700,5 +700,47 @@
         },
         "poster": "p0psicles",
         "theme": "sarah"
+    },
+    {
+        "title": "Lie on the ground and cry a little.",
+        "panels": [
+            "35.png"
+        ],
+        "prattle": [
+            "For no reason in particular, you feel as if your next step should be to 'engage in suffering'.",
+            "So, you lay down on the floor and cry, adding some flailing and squealing for good measure."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "30",
+            "hour": "08",
+            "minute": "39",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence",
+        "theme": "lexi"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "36.png"
+        ],
+        "prattle": [
+            "You accidentally splash some tears on your INVISIBLE HAMMER. Thankfully, it's still intact, even though it smells kind of weird.",
+            "Your PULSE WIDTH SIFTULATOR revs into action!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "30",
+            "hour": "08",
+            "minute": "39",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence",
+        "theme": "lexi"
     }
 ]

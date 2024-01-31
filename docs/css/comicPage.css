@@ -35,6 +35,15 @@ body {
     --lighttextcolor: rgb(83,83,83);
 }
 
+.lexi {
+    --bodybg: #DDD;
+    --framebg: #EEE;
+    --contentbg: #FFF;
+    --textcolor: black;
+    --linkcolor: rgb(0,0,238);
+    --lighttextcolor: rgb(83,83,83);
+}
+
 main.pageFrame, div.pageContent, section.mediaContent, figure.panels {
     display: flex;
     align-items: center;
