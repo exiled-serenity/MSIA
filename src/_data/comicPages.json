@@ -742,5 +742,49 @@
         },
         "poster": "underFlorence",
         "theme": "lexi"
+    },
+    {
+        "title": "SMASH THE DOOR WITH HAMMER",
+        "panels": [
+            "37.png"
+        ],
+        "prattle": [
+            "The hammer doesn't do much good against the metal door, but damn if it doesn't feel good to smack it anyway. Your VIGOR NEXUS is going wild!",
+            "Which is a bad thing, actually. You're not sure why you thought about it like it was a good thing just now? But you should probably stop banging, though.",
+            "You should probably. You should. Stop banging. Marie. Marie stop it. Stop. Stop it. Stop it! Stop it! STO—"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "31",
+            "hour": "12",
+            "minute": "31",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "38.gif"
+        ],
+        "prattle": [
+            "You eventually uselessly bang on the door for so long that you miss the door and hit the doorknob instead. It goes flying off, and so does your hammer. And would you look at that, all the tears fell off of it, too, what a shame. Guess it's not going to appear onscreen anymore.",
+            "It's fine though. Your OVATION SCORE is still just barely in excess of your AUTHORITATION INDEX, and your HP didn't hit zero. You really cut it close there!",
+            "You slot the DOORKNOB into your INVENTORIUM."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "01",
+            "day": "31",
+            "hour": "12",
+            "minute": "31",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi"
     }
 ]
