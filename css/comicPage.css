@@ -32,7 +32,7 @@ body {
     --contentbg: #FFF;
     --textcolor: black;
     --linkcolor: #bd1864;
-    --lighttextcolor: rgb(255,180,200);
+    --lighttextcolor: black;
 }
 
 .lexi {
@@ -175,4 +175,8 @@ nav.logItems {
 a.switchOrder {
     padding-left: 30px;
     align-self: self-start;
+}
+
+strong {
+    color: var(--linkcolor)
 }
