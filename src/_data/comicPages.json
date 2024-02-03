@@ -829,5 +829,27 @@
         },
         "poster": "mothbomb",
         "theme": "sarah"
+    },
+    {
+        "title": "Smash the ink tank against the wall.",
+        "panels": [
+            "41.gif"
+        ],
+        "prattle": [
+            "YOU REPEATEDLY BANG THE <STRONG>DOORKNOB</STRONG> INTO THE WALL FOR SOME REASON, REACHING A NEW ECHELON OF USELESS FLAILING IN THE PROCESS.",
+            "SERIOUSLY, YOUR <STRONG>MAGIC ARBITRARY READOUT KOWTOWOMETER</STRONG> HASN'T EVEN BOTHERED TO ESCALATE BEYOND ITS CURRENT STATUS OF <STRONG>HYPER-CRITICAL DEATHCON II</STRONG>. THAT'S HOW USELESS YOU'RE BEING.",
+            "HM? NO, THOSE AREN'T MY WORDS. THAT'S JUST WHAT THE OTHER ONE IS SAYING. THAT, AND CONSTANTLY SCREAMING HER CATCHPHRASE, OF COURSE, BUT THAT'S JUST SORT OF FADED INTO THE BACKGROUND RADIATION AT THIS POINT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "02",
+            "hour": "11",
+            "minute": "42",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
     }
 ]
