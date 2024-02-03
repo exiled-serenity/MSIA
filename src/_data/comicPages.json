@@ -807,5 +807,27 @@
         },
         "poster": "mothbomb",
         "theme": "sarah"
+    },
+    {
+        "title": "Flop your squid form at the wall until some ink sticks.",
+        "panels": [
+            "40.gif"
+        ],
+        "prattle": [
+            "YOU FLAIL USELESSLY AGAINST THE WALL, THANKFULLY AVOIDING ANY GREIVOUS INJURIES BUT NONTHELESS WREAKING HAVOC ON YOUR <STRONG>STUPID STATS BAR THING</STRONG>. YOUR <STRONG>HP</STRONG> IS STEADILY LOWERING, AND THE <STRONG>OTHER ONES</STRONG> ARE DOING CONCERNING THINGS AS WELL.",
+            "UNFORTUNATELY, MUCH AS YOU SMASH AND SPIT AND ATTEMPT TO SIMPLY CLIMB THIS WALL, IT STRANGELY ENOUGH SEEMS AS IF IT IS NOT POSSIBLE TO EXTRACT INK FROM A TANK WITHOUT A <STRONG>TURF MODUS</STRONG>.",
+            "YOU HEAR THE OTHER ONE YELLING SOMETHING ABOUT A KEY. SHE'S PROBABLY SAYING HER CLASSIC CATCHPHRASE, 'DON'T FORGET THAT YOUR <STRONG>TURF MODUS</STRONG> IS THE <STRONG>KEY</STRONG> TO VICTORY'. SHE ALWAYS USED TO SAY THAT WHEN YOU WERE KIDS."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "01",
+            "hour": "10",
+            "minute": "22",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah"
     }
 ]
