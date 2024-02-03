@@ -851,5 +851,25 @@
         },
         "poster": "p0psicles",
         "theme": "sarah"
+    },
+    {
+        "title": "Toss the key up to Callie!",
+        "panels": [
+            "42.png"
+        ],
+        "prattle": [
+            "THE <STRONG>ROTATION MODUS</STRONG> IS FAR TOO HEAVY TO THROW THAT KIND OF DISTANCE. ESPECIALLY NOT IN YOUR CURRENT CONDITION."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "03",
+            "hour": "01",
+            "minute": "24",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
     }
 ]
