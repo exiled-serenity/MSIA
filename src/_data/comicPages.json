@@ -871,5 +871,46 @@
         },
         "poster": "p0psicles",
         "theme": "sarah"
+    },
+    {
+        "title": "Paint the wall with the rotation modus and squid surge up to callie!",
+        "panels": [
+            "43.png"
+        ],
+        "prattle": [
+            "YOU USE THE <STRONG>KEY</STRONG> TO UNLOCK THE <STRONG>DOORKNOB</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "03",
+            "hour": "06",
+            "minute": "33",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "44.gif"
+        ],
+        "prattle": [
+            "NOW THAT YOUR <STRONG>INK TANK</STRONG> HAS BEEN CONNECTED TO YOUR <STRONG>ROTATION MODUS</STRONG>, YOU'RE FINALLY ABLE TO PAINT THINGS. UNFORTUNATELY, THE ROTATION MODUS DOESN'T QUITE HAVE THE REACH TO GET TO THE OTHER ONE WHEN SHE'S ALL THE WAY UP THERE.",
+            "ALSO, THE <STRONG>AIR THING</STRONG> STILL APPEARS TO BE IN PRETTY TERRIBLE SHAPE, DRAINING YOUR HP TO YET MORE DANGEROUS LEVELS. THAT'S PROBABLY WHY YOUR THOUGHTS FEEL LIKE SUCH A STRUGGLE AT THE MOMENT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "03",
+            "hour": "06",
+            "minute": "33",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah"
     }
 ]
