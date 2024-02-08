@@ -912,5 +912,46 @@
         },
         "poster": "julia_pseudo",
         "theme": "sarah"
+    },
+    {
+        "title": "Take a deep breath?",
+        "panels": [
+            "45.gif"
+        ],
+        "prattle": [
+            "YOU TAKE A <STRONG>DEEP BREATH</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "06",
+            "hour": "09",
+            "minute": "16",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "46.gif"
+        ],
+        "prattle": [
+            "NOW THAT YOU FINALLY HAVE YOUR HEAD TOGETHER, YOU REMEMEBER ABOUT HOW <STRONG>KEYS</STRONG> CAN, IN FACT, BE TURNED SIDEWAYS.",
+            "YOU'RE NOT SURE HOW YOU FORGOT ABOUT THIS. THE DEPTH OF YOUR UTTER INCAPACITY ASTOUNDS YOU. THANK FUCKING SQUID COD YOU HAVE ME HERE TO HELP."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "06",
+            "hour": "09",
+            "minute": "16",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
     }
 ]
