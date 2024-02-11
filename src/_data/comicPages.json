@@ -974,5 +974,157 @@
         },
         "poster": "julia_pseudo",
         "theme": "lexi"
+    },
+    {
+        "title": "Swim up and give the roller to Callie!",
+        "panels": [
+            "48.1.png",
+            "48.2.png"
+        ],
+        "prattle": [
+            "FINALLY. AFTER ALL THIS FUCKING AROUND. IT IS <STRONG>GO TIME</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "49.1.png",
+            "49.2.png",
+            "49.3.png",
+            "49.4.png",
+            "49.5.png",
+            "49.6.png",
+            "49.7.png",
+            "49.8.png"
+        ],
+        "prattle": [
+            ""
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "50.png"
+        ],
+        "prattle": [
+            "YOU BONK YOUR HEAD ON THE BOTTOM OF THE <STRONG>WINDOW</STRONG>. LIKE A FUCKING SQUID. HOW DEEPLY IRONIC."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "51.1.png",
+            "51.2.png"
+        ],
+        "prattle": [
+            "AND OF COURSE, DUE TO YOUR OBNOXIOUS AMOUNT OF <STRONG>MOMENTUM</STRONG>, THE <STRONG>KEY</STRONG> GOES FLYING.",
+            "DOES CALLIE MANAGE TO SNATCH IT? NO, OF COURSE SHE DOESN'T. HER <STRONG>HP</STRONG> MUST BE TOO LOW, OR SOME OTHER CRAB-SHIT LIKE THAT.",
+            "INSTEAD, AS IS USUAL, AN <STRONG>ANNOYING FUCKHEAD</STRONG> INTERRUPTS US, TAKING THE KEY FOR HIMSELF."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "52.png"
+        ],
+        "prattle": [
+            "YOU FALL. AND AS IF THE SITUATION COULDN'T GET ANY WORSE, YOU ACCIDENTALLY UNPLUG THE <STRONG>WINDOW</STRONG> BY BUMPING THE CORD THAT HAS BEEN IN PLAIN SIGHT THIS WHOLE TIME."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "53.gif"
+        ],
+        "prattle": [
+            "ALL YOU CAN SEE AS YOU HELPLESSLY TUMBLE IS <STRONG>BIG CAL</STRONG> SLOWLY FADING AWAY.",
+            "AND THEN..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "54.png"
+        ],
+        "prattle": [
+            "You're unconcious!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "03",
+            "minute": "17",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah"
     }
 ]
