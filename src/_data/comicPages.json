@@ -953,5 +953,26 @@
         },
         "poster": "p0psicles",
         "theme": "sarah"
+    },
+    {
+        "title": "Ink a line up the wall with a vert!",
+        "panels": [
+            "47.gif"
+        ],
+        "prattle": [
+            "You FLIP your ROTATION MODUS TURN WAYS and cover the wall with a long line of ink! A little too long, in fact. You seem to have smacked Big Cal right in the face, and she's furious!",
+            "You're no good with this thing, really. You should probably just give it to someone who can actually use it."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "07",
+            "hour": "08",
+            "minute": "10",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi"
     }
 ]
