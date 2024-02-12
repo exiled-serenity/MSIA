@@ -1148,5 +1148,28 @@
         "poster": "underFlorence",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "Uh remember your name?",
+        "panels": [
+            "56.png"
+        ],
+        "prattle": [
+            "FUCK. OKAY, SURE. RIGHT. UM. YOU WANT TO SAY IT WAS. <STRONG>ANNOYING FUCKHEAD</STRONG>?",
+            "NO, THAT'S STUPID. OBVIOUSLY IT'S ACUTALLY. UH. YEAH, NAMES ARE USUALLY SOMETHING THAT YOU WOULD...",
+            "OKAY, FUCK THIS. YOU'LL FIGURE IT OUT LATER. YOU CAN JUST COME UP WITH A <STRONG>TEMPORARY NAME</STRONG> FOR NOW. IF YOU REALLY WANT TO."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "10",
+            "minute": "41",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3
     }
 ]
