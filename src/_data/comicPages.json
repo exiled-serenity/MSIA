@@ -1171,5 +1171,26 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "make it callie. or callie 2.0",
+        "panels": [
+            "57.png"
+        ],
+        "prattle": [
+            "YOU DECIDE TO GO WITH \"LIL' CAL\", AFTER YOUR LATE GRANDFATHER. COD REST HIS SOUL."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "10",
+            "minute": "49",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3
     }
 ]
