@@ -1192,5 +1192,133 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "Inspect the keys on the ground and identify each one.",
+        "panels": [
+            "58.png"
+        ],
+        "prattle": [
+            "Hm, alright, let's see..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "59.png"
+        ],
+        "prattle": [
+            "Well, first of all we have the KEY. Nothing at all wrong with it. It's a beloved classic in these parts!",
+            "Wherever 'these parts' are, anyway. You're having trouble remembering for some reason."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "60.png"
+        ],
+        "prattle": [
+            "Then, there's the FUN KEY. The less said about this one, the better."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "61.png"
+        ],
+        "prattle": [
+            "There's the UNBELIEVABLY SHITTY DRAWING OF A KEY you apparently did in your sleep..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "62.png"
+        ],
+        "prattle": [
+            "The OCTAKA MODUS..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "63.png"
+        ],
+        "prattle": [
+            "And last but far from least, there's the MOTHER KEY, which rules over all KEYS below level 13! What a find!",
+            "Either that, or it's a JELLY DONUT you stepped on earlier. It's hard to tell from this angle."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "11",
+            "hour": "11",
+            "minute": "26",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3
     }
 ]
