@@ -1320,5 +1320,26 @@
         "poster": "julia_pseudo",
         "theme": "lexi",
         "chapter": 3
+    },
+    {
+        "title": "Eat the Pumpkin Cal",
+        "panels": [
+            "64.png"
+        ],
+        "prattle": [
+            "YOU ARE UNSURE WHY YOU THOUGHT IT WOULD BE A GOOD IDEA TO TRY EATING THIS <STRONG>CARDBOARD CUTOUT OF A PUMPKIN</STRONG>, BUT IT TASTES FUCKING AWFUL. YOU HAVE NO IDEA WHY <STRONG>THAT OTHER AGENT</STRONG> APPARENTLY LIKES THESE THINGS SO MUCH."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "14",
+            "hour": "10",
+            "minute": "56",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3
     }
 ]
