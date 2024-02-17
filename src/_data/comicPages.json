@@ -1341,5 +1341,48 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "Eat the cardboard cutout, it's nutritious",
+        "panels": [
+            "65.png"
+        ],
+        "prattle": [
+            "IT'S NOT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "15",
+            "hour": "10",
+            "minute": "20",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah",
+        "chapter": 3
+    },
+    {
+        "title": "Calcalcalcalcal how about...you use the key on the door",
+        "panels": [
+            "66.png"
+        ],
+        "prattle": [
+            "HM. THAT'S NOT USUAL. YOU'RE PRETTY SURE THAT YOUR <STRONG>THE KEY</STRONG> WAS SUPPOSED TO OPEN THIS DOOR. ALTHOUGH YOU'RE NOT PARTICULARLY SURE IF YOU WERE INTENDING TO DO THAT OR NOT.",
+            "IN ANY CASE, IT'S NOT WORKING. THE <STRONG>PRISONER</STRONG> (YOU THINK HER NAME WAS MARY OR SOMETHING) MUST HAVE BROKEN OFF THE <STRONG>DOORKNOB</STRONG> FROM THE INSIDE, RENDERING THE DOOR INOPERABLE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "15",
+            "hour": "10",
+            "minute": "21",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3
     }
 ]
