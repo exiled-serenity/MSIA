@@ -1384,5 +1384,28 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "SING",
+        "panels": [
+            "67.1.png",
+            "67.2.png"
+        ],
+        "prattle": [
+            "You start screeching some random CACOPHONIC INTONEMENTS for some reason, which accomplishes nothing, obviously. You can't even hear them properly.",
+            "They are wreaking (reeking?) havoc on your PULSE WIDTH SIFTULATOR, though, as you can quite plainly see, which is not helping your pitiful HP level or your treacherously descendant OVATION SCORE. Perhaps you should just never do that ever again? I don't know, just a thought."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "18",
+            "hour": "05",
+            "minute": "47",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "eikaprime",
+        "theme": "lexi",
+        "chapter": 3
     }
 ]
