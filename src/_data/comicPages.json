@@ -1407,5 +1407,119 @@
         "poster": "eikaprime",
         "theme": "lexi",
         "chapter": 3
+    },
+    {
+        "title": "Think about a happy memory?",
+        "panels": [
+            "68.png"
+        ],
+        "prattle": [
+            "No matter how hard you try, you just can't seem to summon anything! This is really starting to piss you off. Why won't your memory just work? It's as if it's being inhibited somehow.",
+            "Oh well, no use prying, right? Right?"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "19",
+            "hour": "01",
+            "minute": "41",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "69.gif"
+        ],
+        "prattle": [
+            "Ugh, of course. Okay, you keep trying for some reason even though we've well established at this point that there is NO POINT in doing so.",
+            "Come on, you're swimming up the WRONG TREE here, okay? Just stop it.",
+            "Stop it. Stop it! Stop it! STO—"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "19",
+            "hour": "01",
+            "minute": "41",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "70.gif"
+        ],
+        "prattle": [
+            "Someone is messaging you on ﾄﾑ抄��."
+        ],
+        "log": {
+            "name": "Memlog",
+            "content": [
+                { "name":"??????:", "color":"gr8y", "message":"I SERIOUSLY CANNOT BELIEVE HOW THOROUGHLY YOU HAVE FUCKED EVERYTHING UP." },
+                { "name":"??????:", "color":"gr8y", "message":"OF EVERYWHERE YOU COULD HAVE CHOSEN, YOU WENT WITH THAT CELL? ARE YOU FUCKING SQUIDDING ME?" },
+                { "name":"??????:", "color":"lilcal", "message":"Augh alright I get it!" },
+                { "name":"??????:", "color":"lilcal", "message":"You don't have to be so mean..." },
+                { "name":"??????:", "color":"gr8y", "message":"EVIDENTLY I DO, THOUGH!" },
+                { "name":"??????:", "color":"lilcal", "message":"Look, I'm sorry, okay?" },
+                { "name":"??????:", "color":"lilcal", "message":"I should've known better. I guess I get sloppy when it comes to her." },
+                { "name":"??????:", "color":"lilcal", "message":"But I'll make up for it, okay?" },
+                { "name":"??????:", "color":"gr8y", "message":"UGH... fine." },
+                { "name":"??????:", "color":"gr8y", "message":"Look, we still have a chance to fix this. We'll have to be quick, and it's a bit unpredictable, but there's still time to pull it off." },
+                { "name":"??????:", "color":"gr8y", "message":"You're still in the area, right?" },
+                { "name":"??????:", "color":"lilcal", "message":"Yeah I'm hiding out." },
+                { "name":"??????:", "color":"lilcal", "message":"I don't think anyone's noticed yet." },
+                { "name":"??????:", "color":"gr8y", "message":"Alright, good." },
+                { "name":"??????:", "color":"gr8y", "message":"I'll give you all the time I can from up here." },
+                { "name":"??????:", "color":"gr8y", "message":"And I can handle that other guy if he shows up." },
+                { "name":"??????:", "color":"gr8y", "message":"But you have to be the one to recover Agent Two, alright?" },
+                { "name":"??????:", "color":"lilcal", "message":"I'll... do my best." },
+                { "name":"??????:", "color":"gr8y", "message":"You'd better. All our ink sacs are on the line here." },
+                { "name":"??????:", "color":"gr8y", "message":"SO DON'T YOU DARE FUCK THIS UP AGAIN." },
+                { "name":"??????:", "color":"lilcal", "message": "Of course." }
+            ]
+        },
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "19",
+            "hour": "01",
+            "minute": "41",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "71.gif"
+        ],
+        "prattle": [
+            "Well that wasn't a very pleasant memory. Or really much of a memory at all. But damn if you didn't just see it. So... good job?",
+            "Anyway, your VIGOR NEXUS is completely fucked, and your hearts are absolutely racing each other, as you can plainly tell from your PULSE WIDTH SIFTULATOR. Maybe you should just sit down and stop thinking about any of this."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "19",
+            "hour": "01",
+            "minute": "41",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
     }
 ]

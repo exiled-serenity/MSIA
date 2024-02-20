@@ -10,6 +10,12 @@ body {
     --linkcolor: rgb(0,0,238);
     --lighttextcolor: rgb(83,83,83);
 
+    --logborder: #888888;
+    --buttoncolor: rgb(239,239,239);
+    --buttonborder: #888888;
+    --buttonhover:  #DEDEDE;
+    --buttonclicked: #EEE;
+
     background-color: var(--bodybg);
     font-family: "Courier New", courier, monospace;
     color: var(--textcolor);
@@ -24,6 +30,12 @@ body {
     flex-shrink: 0;
     flex-wrap: nowrap;
     align-items: center;
+
+    /*character colors*/
+    --callie: #a349a4;
+    --marie: #b5e61d;
+    --lilcal: #ffc90e;
+    --gr8y: #888888;
 }
 
 .sarah {
@@ -34,6 +46,12 @@ body {
     --linkcolor: #bd1864;
     --strongcolor: #bd1864;
     --lighttextcolor: black;
+
+    --logborder: #888888;
+    --buttoncolor: rgb(239,239,239);
+    --buttonborder: #888888;
+    --buttonhover:  #DEDEDE;
+    --buttonclicked: #EEE;
 }
 
 .lexi {
@@ -44,6 +62,12 @@ body {
     --linkcolor: rgb(0,0,238);
     --strongcolor: black;
     --lighttextcolor: rgb(83,83,83);
+
+    --logborder: #888888;
+    --buttoncolor: rgb(239,239,239);
+    --buttonborder: #888888;
+    --buttonhover:  #DEDEDE;
+    --buttonclicked: #EEE;
 }
 
 main.pageFrame, div.pageContent, section.mediaContent, figure.panels {
@@ -171,7 +195,7 @@ nav.logItems {
     padding: 30px;
     text-overflow: ellipsis;
     white-space: nowrap;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 a.switchOrder {
@@ -181,4 +205,90 @@ a.switchOrder {
 
 strong {
     color: var(--strongcolor);
+}
+
+/* log stuff */
+details.log {
+    width: 600px;
+    text-align: center;
+    align-self: center;
+    margin: 0 0 30px;
+    padding: 1px;
+    position: relative;
+    border: 1px dashed var(--logborder);
+}
+
+details.log summary {
+    list-style: none;
+}
+
+details.log summary.button {
+    position: inherit;
+    text-transform: capitalize;
+    z-index: 0;
+
+    /*basically just reimplementing a button*/
+    align-items: flex-start;
+    background-color: var(--buttoncolor);
+    border-color: var(--buttonborder);
+    border-style: outset;
+    border-width: 1px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: var(--textcolor);
+    cursor: default;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13.3333px;
+    font-stretch: 100%;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-numeric: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: normal;
+    margin: 0;
+    padding: 3px 8px 3px;
+    text-align: center;
+    text-indent: 0px;
+    text-rendering: auto;
+    text-shadow: none;
+    word-spacing: normal;
+    writing-mode: horizontal-tb;
+}
+
+details.log summary.button:hover {
+    background-color: var(--buttonhover);
+}
+
+details.log summary.button:active {
+    background-color: var(--buttonclicked);
+}
+
+details.log[open] summary.button .label::before {
+    content: 'Hide ';
+}
+
+details.log summary.button .label::before {
+    content: 'Show ';
+}
+
+details.log p.logContent {
+    padding: 15px 5% 15px;
+    text-align: left;
+    line-height: 1.15;
+    font-size: 1em;
+    margin: 0;
+    z-index: 0;
+    position: inherit;
+    font-weight: 700;
+}
+
+.lilcal {
+    color: var(--lilcal);
+}
+
+.gr8y {
+    color: var(--gr8y);
 }

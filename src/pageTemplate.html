@@ -41,6 +41,18 @@ tags: comicPage
                             <p>{{ paragraph }}</p>
                         {%- endfor -%}
                     </div>
+
+                    {% if thisComicPage.log %}
+                    <details class="log">
+                        <summary class="button"><span class="label">{{ thisComicPage.log.name }}</span></summary>
+                        <p class="logcontent">
+                        {% for line in thisComicPage.log.content %}
+                            <span class="{{ line.color }}">{{ line.name }}</span> {{ line.message }}<br>
+                        {% endfor %}
+                        </p>
+                    </details>
+                    {% endif %}
+
                     <nav class="pageNavigation">
                         {% if pagination.href.next %}
                         <div class="nextArrow {{ pagination.page.next.theme }}">
