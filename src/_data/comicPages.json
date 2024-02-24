@@ -1588,5 +1588,112 @@
         "poster": "julia_pseudo",
         "theme": "sarah",
         "chapter": 3
+    },
+    {
+        "title": "Hey Narrator, can we go back to Callie?",
+        "panels": [
+            "75.png"
+        ],
+        "prattle": [
+            "You're not particularly sure who this 'Narrator' fellow is (though they're surely a talented and beautiful individual), but sure, we can go back to Callie.",
+            "Only problem is, you'll have to find her first."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "21",
+            "hour": "02",
+            "minute": "09",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "76.png"
+        ],
+        "prattle": [
+            "Judging by the position of her window in Mary's cell, she's probably off in this direction. Plus, it looks like there's a bunch of other EXCITING DISTACTIONS to interact with along the way! What fun!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "21",
+            "hour": "02",
+            "minute": "09",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "Hey narrator can we go to a fun new character",
+        "panels": [
+            "77.png"
+        ],
+        "prattle": [
+            "You're not particularly sure who this 'Narrator' fellow is (surely a talented and beautiful individual), but sure, we can go meet a fun new character.",
+            "Only problem is, you'll have to find them first."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "21",
+            "hour": "02",
+            "minute": "53",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "78.png"
+        ],
+        "prattle": [
+            "Judging by the position of Mary's cell, something completely unrelated to anything would probably be in this direction. Plus, it looks like there's a bunch of other EXCITING DISTACTIONS to interact with along the way! What fun!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "21",
+            "hour": "02",
+            "minute": "53",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence",
+        "theme": "lexi",
+        "chapter": 3
+    },
+    {
+        "title": "ミ:匚＞",
+        "panels": [
+            "79.gif"
+        ],
+        "prattle": [
+            "Oh my, looks like you're at something of an impasse! So many exciting HIJINX to strive for, and probably a relatively small amount of time in which to attain them! All this free choice and decision making is really giving you a headache. You should probably choose quickly before you explode or something annoying like that."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "21",
+            "hour": "02",
+            "minute": "53",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "underFlorence | p0psicles",
+        "theme": "lexi",
+        "chapter": 3
     }
 ]
