@@ -1721,7 +1721,7 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [],
+        "next": [ 82 ],
         "back": 79
     },
     {
@@ -1745,7 +1745,57 @@
         "poster": "mothbomb",
         "theme": "sarah",
         "chapter": 3,
-        "next": [],
+        "next": [ 83 ],
         "back": 79
+    },
+    {
+        "title": "Go more towards Callie! Ignore the light...",
+        "panels": [
+            "82.gif"
+        ],
+        "prattle": [
+            "YOU KNOW WHAT, YOU'RE RIGHT. FUCK THE LIGHT, OF THE SUN AND THE <STRONG>SURFACE</STRONG>, ACTUALLY. YOU'RE SICK OF ITS SHIT.",
+            "IN FACT, YOU KNOW WHAT? YOU UNPLUG THE <STRONG>WINDOW</STRONG>. YOU'VE DECIDED IT CAN GO FUCK ITSELF OFF ENTIRELY.",
+            "YEAH, THAT'S RIGHT, YOU THINK TOWARDS THE CONCEPT OF FREEDOM. GO AHEAD AND SLOWLY FADE AWAY OVER A PERIOD OF ROUGHLY FIVE SECONDS, YOU CONTINUE. SEE IF YOU CARE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "27",
+            "hour": "12",
+            "minute": "11",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [],
+        "back": 80
+    },
+    {
+        "title": "wave enthusiastically and say hello to the horrors",
+        "panels": [
+            "83.png"
+        ],
+        "prattle": [
+            "YOU WAVE ENTHUSIASTICALLY TOWARDS THE <STRONG>HORRORS</STRONG>. YOU SAY HELLO.",
+            "THEY SAY HELLO BACK. FETID WHISPERS, CLINGING TO YOUR SOUL.",
+            "IT'S PROBABLY FINE. THOUGH FOR NO REASON IN PARTICULAR IT SEEMS LIKE A REALLY GOOD IDEA TO DO <STRONG>LITERALLY ANYTHING ELSE</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "27",
+            "hour": "12",
+            "minute": "10",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [],
+        "back": 81
     }
 ]
