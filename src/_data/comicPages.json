@@ -1795,7 +1795,32 @@
         "poster": "mothbomb",
         "theme": "sarah",
         "chapter": 3,
-        "next": [],
+        "next": [ 84 ],
         "back": 81
+    },
+    {
+        "title": "ask the horrors for help taking the cover off the vent",
+        "panels": [
+            "84.png"
+        ],
+        "prattle": [
+            "YOU COMMUNE WITH <STRONG>TERRIBLE THINGS FROM BEYOND THE VEIL</STRONG> AND ASK THEM FOR HELP TAKING THE COVER OFF A <STRONG>VENT</STRONG>.",
+            "THEIR RESPONSE IS FRAGMENTARY AND BEYOND ALL COMPREHENSION, BUT THE WEAK PERCEPTION OF YOUR MORTAL MIND IS JUST BARELY ABLE TO MAKE OUT SOMETHING. ENCROACHING WHISPERS, ENDLESS SPIRIT, WITHOUT ANY EXPRESSION THAT CAPTURES ITS TRUE INTENSITY. TO YOUR UNTRAINED <STRONG>EARS</STRONG>, IT SORT OF SOUNDS LIKE SOMEONE IS SCREAMING 'YOU ARE MADE OF INK DIPSHIT'.",
+            "THE MEANING OF THESE WORDS WILL BE DEBATED FOR GENERATIONS TO COME."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "27",
+            "hour": "12",
+            "minute": "49",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [],
+        "back": 83
     }
 ]
