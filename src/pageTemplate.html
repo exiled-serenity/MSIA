@@ -54,7 +54,15 @@ tags: comicPage
                     {% endif %}
 
                     <nav class="pageNavigation">
-                        {% if pagination.href.next %}
+                        {% if thisComicPage.next %}
+                            {% for index in thisComicPage.next %}
+                            <div class="nextArrow {{ pagination.pages[index].theme }}">
+                                <p> &gt; <a href="{{ globalData.rootDir }}{{ pagination.hrefs[index] }}">
+                                    {{ pagination.pages[index].title }}
+                                </a></p>
+                            </div>
+                            {% endfor %}
+                        {% elsif pagination.href.next %}
                         <div class="nextArrow {{ pagination.page.next.theme }}">
                             <p> &gt; <a href="{{ globalData.rootDir }}{{ pagination.href.next }}">
                                 {{ pagination.page.next.title }}
@@ -65,7 +73,11 @@ tags: comicPage
                             <ul> 
                                 {% if pagination.href.previous %}
                                 <li><a href="{{ globalData.rootDir }}{{ pagination.hrefs[1] }}">Start Over</a></li>
+                                {% if thisComicPage.back %}
+                                <li><a href="{{ globalData.rootDir }}{{ pagination.hrefs[thisComicPage.back] }}">Go Back</a></li>
+                                {% else %}
                                 <li><a href="{{ globalData.rootDir }}{{ pagination.href.previous }}">Go Back</a></li>
+                                {% endif %}
                                 <li><a href="{{ globalData.rootDir }}/squidbreak/log/">Adventure Log</a></li>
                                 {% endif %}
                             </ul>
