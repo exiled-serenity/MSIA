@@ -1707,7 +1707,8 @@
         ],
         "prattle": [
             "YOU RETRIEVE YOUR <STRONG>KEYS</STRONG> OFF THE GROUND BEFORE PROCEEDING TO MAKE THE OBVIOUS CHOICE, UTTERLY UNAWARE OF ANY <STRONG>EXTREMELY ANNOYING TIMELINE BIFURCATION CRAB-SHIT</STRONG> THAT MAY OR MAY NOT HAVE JUST OCCURED. YOU LIVE IN <STRONG>UNIVERSE ALPHA</STRONG>, OF COURSE, WHICH IS THE ONLY ONE THAT HAS EVER EXISTED.",
-            "ON THE WAY, YOU CAN'T HELP BUT NOTICE THE SUNSET GLEAMING THROUGH THE WINDOW. AH, SO BEAUTIFUL. WHAT A PRIVILEGE IT IS TO BASK AND TO EXPERIENCE LIFE. LIFE, LAUGHTER, AND MOST OF ALL, LOVE."
+            "ON THE WAY, YOU CAN'T HELP BUT NOTICE THE SUNSET GLEAMING THROUGH THE WINDOW. AH, SO BEAUTIFUL. WHAT A PRIVILEGE IT IS TO BASK AND TO EXPERIENCE LIFE. LIFE, LAUGHTER, AND MOST OF ALL, LOVE.",
+            "(Hi everyone, it's Lexi here. I'm sneaking this into the page while my sister isn't looking! Wow, this universe, the only one which has ever existed, sure is great, huh? You wanna direct your commands to this one, right? Well, if you want to do so, just preface your commands with 'UA:'! Woweee!)"
         ],
         "time": {
             "year": "2024",
@@ -1722,7 +1723,8 @@
         "theme": "sarah",
         "chapter": 3,
         "next": [ 82 ],
-        "back": 79
+        "back": 79,
+        "universe": "a"
     },
     {
         "title": "go check out the shadowy ominous glowing red eyed figure",
@@ -1731,7 +1733,8 @@
         ],
         "prattle": [
             "YOU RETRIEVE YOUR <STRONG>KEYS</STRONG> OFF THE GROUND BEFORE PROCEEDING TO MAKE THE OBVIOUS CHOICE, UTTERLY UNAWARE OF ANY <STRONG>EXTREMELY ANNOYING TIMELINE BIFURCATION CRAB-SHIT</STRONG> THAT MAY OR MAY NOT HAVE JUST OCCURED. YOU LIVE IN <STRONG>UNIVERSE BRAVO</STRONG>, OF COURSE, WHICH IS THE ONLY ONE THAT HAS EVER EXISTED.",
-            "WOW, THAT <STRONG>REPRESENTATION OF ASSORTED HORROR</STRONG> THERE SURE IS FUCKING TERRIFYING. YOU CAN'T IMAGINE WHAT IT WOULD BE LIKE TO BE AFFLICTED WITH WHATEVER HAPPENED TO THAT GUY."
+            "WOW, THAT <STRONG>REPRESENTATION OF ASSORTED HORROR</STRONG> THERE SURE IS FUCKING TERRIFYING. YOU CAN'T IMAGINE WHAT IT WOULD BE LIKE TO BE AFFLICTED WITH WHATEVER HAPPENED TO THAT GUY.",
+            "(Hi everyone, it's Lexi here. I'm sneaking this into the page while my sister isn't looking! Wow, this universe, the only one which has ever existed, sure is great, huh? You wanna direct your commands to this one, right? Well, if you want to do so, just preface your commands with 'UB:'! Woweee!)"
         ],
         "time": {
             "year": "2024",
@@ -1746,10 +1749,11 @@
         "theme": "sarah",
         "chapter": 3,
         "next": [ 83 ],
-        "back": 79
+        "back": 79,
+        "universe": "b"
     },
     {
-        "title": "Go more towards Callie! Ignore the light...",
+        "title": "UA: Go more towards Callie! Ignore the light...",
         "panels": [
             "82.gif"
         ],
@@ -1771,10 +1775,11 @@
         "theme": "sarah",
         "chapter": 3,
         "next": [],
-        "back": 80
+        "back": 80,
+        "universe": "a"
     },
     {
-        "title": "wave enthusiastically and say hello to the horrors",
+        "title": "UB: wave enthusiastically and say hello to the horrors",
         "panels": [
             "83.png"
         ],
@@ -1796,10 +1801,11 @@
         "theme": "sarah",
         "chapter": 3,
         "next": [ 84 ],
-        "back": 81
+        "back": 81,
+        "universe": "b"
     },
     {
-        "title": "ask the horrors for help taking the cover off the vent",
+        "title": "UB: ask the horrors for help taking the cover off the vent",
         "panels": [
             "84.png"
         ],
@@ -1820,7 +1826,58 @@
         "poster": "mothbomb",
         "theme": "sarah",
         "chapter": 3,
-        "next": [],
-        "back": 83
+        "next": [ 85 ],
+        "back": 83,
+        "universe": "b"
+    },
+    {
+        "title": "UB: start crying and then enter the vent in swim form",
+        "panels": [
+            "85.1.png",
+            "85.2.png"
+        ],
+        "prattle": [
+            "You let out a few TEARS OF SHAME at the cruel words of THE HORRORS, putting them to good use by greasing the floor under the vent.",
+            "Then, you activate your SPECIAL RECONFICURATION: 'SWIM MODE' in order to liquify yourself and squeeze through. The motion comes naturally to you, as does your form."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "27",
+            "hour": "01",
+            "minute": "09",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 86 ],
+        "back": 84,
+        "universe": "b"
+    },
+    {
+        "title": "UB: ミ:匚＞",
+        "panels": [
+            "86.png"
+        ],
+        "prattle": [
+            "On the other side, there's a strange dark room with a RECONSTITUTION POOL at its center, in addition to a few other INDICATIVE TRINKETS."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "27",
+            "hour": "01",
+            "minute": "09",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ ],
+        "back": 85,
+        "universe": "b"
     }
 ]
