@@ -1876,8 +1876,85 @@
         "poster": "mothbomb",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 87 ],
         "back": 85,
+        "universe": "b"
+    },
+    {
+        "title": "UB: Put the Marie plush in your mouth.",
+        "panels": [
+            "87.png"
+        ],
+        "prattle": [
+            "WOW, OKAY, I GUESS ONE OF YOUR CHARACTER TRAITS IS BITING THINGS. GREAT TO KNOW. AND NICE JOB SLOBBERING ALL OVER THAT AGENT TWO PLUSH BY THE WAY, GENIUS. HOPE YOU'RE HAVING AS MUCH FUN AS I AM."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "29",
+            "hour": "11",
+            "minute": "13",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 88 ],
+        "back": 86,
+        "universe": "b"
+    },
+    {
+        "title": "UB: Throw Marie plushie into Reconstitution Pool",
+        "panels": [
+            "88.1.png",
+            "88.2.gif"
+        ],
+        "prattle": [
+            "OKAY YOU'RE PRETTY DAMN SURE HER NAME WAS ACUTALLY <STRONG>MARY</STRONG>, BUT WHATEVER. WHO CARES.",
+            "YOU SPIT THE THING OUT INTO THE <STRONG>RECONSTITUTION POOL</STRONG>. THROUGH MEANS INEXPLICABLE TO EVEN OUR MOST TALENTED RESEARCHERS, IT MANAGES TO SPONTANEOUSLY AND CONTINUOUSLY RECONSTITUTE. AS ITSELF.",
+            "TRULY, A <STRONG>MIRACLE</STRONG> HAS BEEN BORNE TODAY."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "29",
+            "hour": "11",
+            "minute": "13",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 89 ],
+        "back": 87,
+        "universe": "b"
+    },
+    {
+        "title": "UB: Throw Marie plushie into Reconstitution Pool",
+        "panels": [
+            "89.1.png",
+            "89.2.png",
+            "89.3.gif"
+        ],
+        "prattle": [
+            "UH OKAY YOU DO THAT WHOLE THING AGAIN I GUESS. SURE, WHY NOT AT THIS POINT. I WONDER WHAT <STRONG>UNIVERSE ALPHA</STRONG> YOU IS UP TO. YOU KNOW, THE ONE THAT DOESN'T EXIST? I BET THEY'RE MAKING SO MUCH PROGRESS TOWARDS WHATEVER THAT THING THEY WANTED TO DO WAS."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "02",
+            "day": "29",
+            "hour": "11",
+            "minute": "14",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 88,
         "universe": "b"
     }
 ]

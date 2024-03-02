@@ -39,6 +39,7 @@ permalink: "squidbreak/log_{{ displayStyle }}/index.html"
                         {% for comicPage in collections.comicPage %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                             {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
+                            {{ comicPage.data.thisComicPage.poster }}> 
                             <a href="{{ globalData.rootDir }}{{ comicPage.page.url }}" class="{{ comicPage.data.thisComicPage.theme }}">{{ comicPage.data.thisComicPage.title }}</a>
                             <br/>
                             {% endif %}
@@ -47,6 +48,7 @@ permalink: "squidbreak/log_{{ displayStyle }}/index.html"
                         {% for comicPage in collections.comicPage reversed %}
                             {% if comicPage.data.pagination.pageNumber > 0 %}
                                 {{ comicPage.data.thisComicPage.time.day }}/{{ comicPage.data.thisComicPage.time.month }}/{{ comicPage.data.thisComicPage.time.year }} - 
+                                {{ comicPage.data.thisComicPage.poster }}> 
                                 <a href="{{ globalData.rootDir }}{{ comicPage.page.url }}" class="{{ comicPage.data.thisComicPage.theme }}">{{ comicPage.data.thisComicPage.title }}</a>
                                 <br/>
                             {% endif %}
