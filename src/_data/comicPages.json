@@ -1774,7 +1774,7 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [],
+        "next": [ 90 ],
         "back": 80,
         "universe": "a"
     },
@@ -1956,5 +1956,56 @@
         "next": [ ],
         "back": 88,
         "universe": "b"
+    },
+    {
+        "title": "UA: GO MORE TO CALLIE",
+        "panels": [
+            "90.gif"
+        ],
+        "prattle": [
+            "YOU TRY TO CLIMB THE STAIRS AND OH MY FUCKING COD WHAT KIND OF CRAB-SHIT IS THIS.",
+            "OKAY LOOKS LIKE THE STAIRS ARE ACTUALLY SOME KIND OF <STRONG>ELABORATE ANTIPATHIC RUNWAY SUBSUMIFICATOR</STRONG> FOR SOME CODDAMN REASON. COOL GREAT TO SEE.",
+            "YOU CAN SEE ECHOES OF <STRONG>THE BEAUTIFUL LIGHT OF THE BELOVED SKY</STRONG> UP THERE, BUT BESIDES THAT NOTHING'S DOING."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "01",
+            "hour": "11",
+            "minute": "03",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 91 ],
+        "back": 82,
+        "universe": "a"
+    },
+    {
+        "title": "UA: imagine her in your head",
+        "panels": [
+            "91.png"
+        ],
+        "prattle": [
+            "DEJECTED BY THE REVELATION AND STRUGGLING TO THINK OF ANY OTHER POSSIBILITIES, YOU SETTLE FOR IMAGINING <STRONG>THE OTHER ONE</STRONG> IN YOUR HEAD.",
+            "AH, THERE SHE IS. PICTURE PERFECT, BASICALLY THE SAME AS THE REAL THING, PROBABLY. IT'S KIND OF HARD TO SAY AT THIS POINT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "01",
+            "hour": "11",
+            "minute": "03",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [],
+        "back": 90,
+        "universe": "a"
     }
 ]
