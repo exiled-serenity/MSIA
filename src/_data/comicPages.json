@@ -2007,5 +2007,80 @@
         "next": [],
         "back": 90,
         "universe": "a"
+    },
+    {
+        "title": "UA: Go to her. Fight the homophobic hogwarts stairs",
+        "panels": [
+            "92.gif"
+        ],
+        "prattle": [
+            "OH WOW, FUCK. JUST TRY HARDER? WISH I'D THOUGHT OF THAT.",
+            "AND YET, TRY AS YOU MIGHT, IT WOULD SEEM THAT THE <STRONG>HOG SUCK STAIR CASE</STRONG> JUST TRIES HARDER. IT SOMEHOW FEELS AS IF YOU EXIST IN A WORLD COMPRISED PRIMARILY OF <STRONG>WEIRD PUZZLE SHIT</STRONG>.",
+            "ALL YOU END UP ACCOMPLISHING IS <STRONG>FREAKING YOURSELF THE FUCK OUT</STRONG>. THAT, AND WHATEVER <STRONG>THE PURPLE ONE</STRONG> WAS SUPPOSED TO BE. OR MAYBE THAT'S JUST A COINCIDENCE? EVEN I'M HAVING TROUBLE TELLING AT THIS POINT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "06",
+            "hour": "12",
+            "minute": "26",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 93 ],
+        "back": 91,
+        "universe": "a"
+    },
+    {
+        "title": "UA: paint the wall with whatever weapon you're carrying and swim up past the stairs",
+        "panels": [
+            "93.gif"
+        ],
+        "prattle": [
+            "OH RIGHT, THAT THING. WELL, YOU SUPPOSE THE <STRONG>OCTAKA MODUS</STRONG> COULD BE USED FOR SUCH A THING, BUT IT UNFORTUNATELY SEEMS TO BE LACKING ITS <STRONG>INK TANK</STRONG>. AND, AS WE ALL KNOW, IT IS IMPOSSIBLE TO COVER TURF FROM A MODUS WITHOUT AN <STRONG>INK TANK</STRONG>. IF ONLY YOU KNEW OF A WAY TO GET ONE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "06",
+            "hour": "12",
+            "minute": "29",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 94 ],
+        "back": 92,
+        "universe": "a"
+    },
+    {
+        "title": "UA: say can you maybe uh push your hair up a bit? Lets see that forehead",
+        "panels": [
+            "94.png"
+        ],
+        "prattle": [
+            "UH, OKAY, YOU'RE KIND OF SENSITIVE ABOUT YOUR FOREHEAD BUT SURE, YOU'RE THE BOSS YOU GUESS.",
+            "THERE'S NOT REALLY MUCH TO SEE, THOUGH. IT'S KIND OF BORING. YOUR HAIR AND ITS <STRONG>UNBELIEVABLY SHITTY RENDERING</STRONG> ARE KIND OF MORE INTERESTING TO BE HONEST. FROM A SCIENTIFIC STANDPOINT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "06",
+            "hour": "01",
+            "minute": "09",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 93,
+        "universe": "a"
     }
 ]
