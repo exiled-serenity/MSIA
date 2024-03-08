@@ -2079,8 +2079,106 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 95 ],
         "back": 93,
+        "universe": "a"
+    },
+    {
+        "title": "UA: OH MY GOSH YOUR SO CUTE AWHHH OMG CUTIE",
+        "panels": [
+            "95.png"
+        ],
+        "prattle": [
+            "That is not a command!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "07",
+            "hour": "12",
+            "minute": "05",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 96 ],
+        "back": 94,
+        "universe": "a"
+    },
+    {
+        "title": "UA: you have a cute forehead",
+        "panels": [
+            "96.png"
+        ],
+        "prattle": [
+            "..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "07",
+            "hour": "12",
+            "minute": "05",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 97 ],
+        "back": 95,
+        "universe": "a"
+    },
+    {
+        "title": "UA: you have an ugly forehead",
+        "panels": [
+            "97.png"
+        ],
+        "prattle": [
+            "..................."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "07",
+            "hour": "12",
+            "minute": "45",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 98 ],
+        "back": 96,
+        "universe": "a"
+    },
+    {
+        "title": "UA: ミ:匚＞",
+        "panels": [
+            "98.png"
+        ],
+        "prattle": [
+            "Oh hey looks like someone left their INVISIBLE HAMMER lying around isn't that novel.",
+            "You suppose your COPIOUS DEGREE OF SUFFERING must have revealed it to you once more! That or it just sort of showed up. What's the difference, am I right?",
+            "So let's not even TRY to think of WHO would leave their INVISIBLE HAMMER just lying around like that, okay? You have it now. Let's just forget this whole thing ever happened."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "07",
+            "hour": "12",
+            "minute": "45",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "mothbomb",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ ],
+        "back": 97,
         "universe": "a"
     }
 ]
