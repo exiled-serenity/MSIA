@@ -2225,8 +2225,84 @@
         "poster": "ghostlyensemble",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 101 ],
         "back": 99,
+        "universe": "b"
+    },
+    {
+        "title": "UB: jump in the pool",
+        "panels": [
+            "101.gif"
+        ],
+        "prattle": [
+            "YOU BECOME YOUR <STRONG>SWIMMING-TYPE FORM</STRONG> AND ENTER THE <STRONG>RECONSTITUTION POOL</STRONG>. IT'S SO LOVELY HERE, JUST RELAXING INSIDE MATCHING INK ALONGSIDE THE <STRONG>MARY PLUSHIE</STRONG>. YOU FEEL AS IF YOU COULD SPEND AN INDEFINITE PERIOD OF TIME HERE. YOU PROBABLY SHOULD.",
+            "WHAT? WHO SAID THAT? CERTAINLY NOTHING UNUSUAL. JUST RELAX. JUST <STRONG>DON'T GET ANY IDEAS</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "hour": "10",
+            "minute": "05",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "mothbomb",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 102 ],
+        "back": 100,
+        "universe": "b"
+    },
+    {
+        "title": "UB: Open the northeast door.",
+        "panels": [
+            "102.gif"
+        ],
+        "prattle": [
+            "AND YET, DESPITE THE DESPERATE INSISTENCE OF <STRONG>ALL THAT IS REASONABLE AND NOT ANNOYING BETWEEN YOUR EARS</STRONG>, YOU DECIDE TO OPEN THE DOOR.",
+            "<STRONG>BRIGHT, BEAUTEOUS LIGHT</STRONG> GLEAMS FROM ITS APERTURE, BECKONING YOU FORWARD. YOU WONDER, FOR SOME CODFORSAKEN REASON, JUST WHAT IT IS YOU WILL FIND ON THE OTHER END.",
+            "AND SO, OF COURSE, YOU CAPITULATE TO THIS 'WONDER' AND PROCEED. THERE IS LITTLE CHOICE IN THE MATTER."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "hour": "09",
+            "minute": "58",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 103 ],
+        "back": 101,
+        "universe": "b"
+    },
+    {
+        "title": "UB: ミ:匚＞",
+        "panels": [
+            "103.png"
+        ],
+        "prattle": [
+            "THEN, ON THE OTHER SIDE, YOU BECOME A <STRONG>SHOCKING REVELATION</STRONG>. IN EVERY SENSE OF THE WORD.",
+            "SO. THAT'S THAT. I SUPPOSE WE MUST MOVE ON. WHAT SORTS OF 'EVENTS' DID YOU HAVE PLANNED NEXT? PLEASE, GO ON. THE WORLD, AS THEY SAY, IS YOUR OYSTER."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "hour": "09",
+            "minute": "58",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 102,
         "universe": "b"
     }
 ]
