@@ -2301,8 +2301,103 @@
         "poster": "julia_pseudo",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 104 ],
         "back": 102,
+        "universe": "b"
+    },
+    {
+        "title": "UB: go into the labeled door",
+        "panels": [
+            "104.gif"
+        ],
+        "prattle": [
+            "You go to open the door, but before you can do so, you're stopped by the sound of MYSTERIOUS DIALOGUE. It seems like it's coming from just outside!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "12",
+            "hour": "12",
+            "minute": "45",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 105 ],
+        "back": 103,
+        "universe": "b"
+    },
+    {
+        "title": "UB: ミ:匚＞",
+        "panels": [
+            "105.gif"
+        ],
+        "prattle": [
+            "Curious, you decide to eavesdrop a bit."
+        ],
+        "log": {
+            "name": "Dialog",
+            "content": [
+                { "name":"??????:", "color":"guard1", "message":"Okay so first of all, TO isn't even real Octotronica." },
+                { "name":"??????:", "color":"guard2", "message":"Oh my cod, are you an ACTUAL hatchling?" },
+                { "name":"??????:", "color":"guard2", "message":"Who cares what is and isn't REAL? Nothing is REAL!" },
+                { "name":"??????:", "color":"guard1", "message":"If nothing is real then where is it?" },
+                { "name":"??????:", "color":"guard1", "message":"I don't see it anywhere." },
+                { "name":"??????:", "color":"guard2", "message":"UGH! You are the WORST!" },
+                { "name":"??????:", "color":"guard2", "message":"I can't BELIEVE they keep putting us together on guard duty." },
+                { "name":"??????:", "color":"guard1", "message":"Yeah, feeling's mutual. Too bad no one cares." },
+                { "name":"??????:", "color":"guard1", "message":"We're gonna be here for the next forever either way. So get used to it and maybe be less annoying." },
+                { "name":"??????:", "color":"guard2", "message":"GRRRRRRAUUGGHHHH you know what, you're right." },
+                { "name":"??????:", "color":"guard2", "message":"*sigh*" },
+                { "name":"??????:", "color":"guard2", "message":"Uh... I dunno, what do you think they're doing in there?" },
+                { "name":"??????:", "color":"guard1", "message":"Probably something above our paygrade. No reason to concern ourselves with it." },
+                { "name":"??????:", "color":"guard1", "message":"Something comes out that door, we shoot it. Simple." },
+                { "name":"??????:", "color":"guard2", "message":"Ugh, fine." },
+                { "name":"??????:", "color":"guard2", "message":"I'm right behind you. Even though you suck super bad." },
+                { "name":"??????:", "color":"guard1", "message":"Glad we're on the same page." }
+            ]
+        },
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "12",
+            "hour": "12",
+            "minute": "45",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 106 ],
+        "back": 104,
+        "universe": "b"
+    },
+    {
+        "title": "UB: ミ:匚＞",
+        "panels": [
+            "106.png"
+        ],
+        "prattle": [
+            "Well, looks like you aren't getting out of here anytime soon! That's fine, though, probably. There's still plenty of fun INTRICATIONS to explore!",
+            "Plus, the raw sense of HARANGUED PREDEJECTION is causing your HP to trend mercifully upwards! It's all upside when you really think about it!"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "12",
+            "hour": "12",
+            "minute": "45",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ ],
+        "back": 105,
         "universe": "b"
     }
 ]

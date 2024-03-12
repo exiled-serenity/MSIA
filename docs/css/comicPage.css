@@ -36,6 +36,8 @@ body {
     --marie: #b5e61d;
     --lilcal: #ffc90e;
     --gr8y: #888888;
+    --guard1: #3f48cc;
+    --guard2: #00a2e8;
 }
 
 .sarah {
@@ -292,4 +294,12 @@ details.log p.logContent {
 
 .gr8y {
     color: var(--gr8y);
+}
+
+.guard1 {
+    color: var(--guard1);
+}
+
+.guard2 {
+    color: var(--guard2);
 }
