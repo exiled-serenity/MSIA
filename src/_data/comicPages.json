@@ -1953,7 +1953,7 @@
         "poster": "mothbomb",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 99 ],
         "back": 88,
         "universe": "b"
     },
@@ -2180,5 +2180,53 @@
         "next": [ ],
         "back": 97,
         "universe": "a"
+    },
+    {
+        "title": "UB: Check out what's on that laptop.",
+        "panels": [
+            "99.gif"
+        ],
+        "prattle": [
+            "YOU HAVE A SEAT AND PREPARE TO FIGURE OUT WHAT'S ON THIS <STRONG>MYSTERIOUS LAPTOP</STRONG>, WHICH YOU HAVE NEVER SEEN BEFORE IN YOUR LIFE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "hour": "01",
+            "minute": "38",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "ghostlyensemble",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 100 ],
+        "back": 89,
+        "universe": "b"
+    },
+    {
+        "title": "UB: ミ:匚＞",
+        "panels": [
+            "100.png"
+        ],
+        "prattle": [
+            "AH, WELL, FUCK THAT, YOU GUESS. THE THING'S LOCKED, AS YOU CAN QUITE PLAINLY SEE, AND YOU HAVE NO IDEA WHAT THE PASSWORD IS. WHAT A SHAME. LOOKS LIKE YOU'LL HAVE TO GO DO SOMETHING ELSE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "hour": "01",
+            "minute": "38",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "ghostlyensemble",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 99,
+        "universe": "b"
     }
 ]
