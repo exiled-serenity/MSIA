@@ -2177,7 +2177,7 @@
         "poster": "mothbomb",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 107 ],
         "back": 97,
         "universe": "a"
     },
@@ -2399,5 +2399,32 @@
         "next": [ ],
         "back": 105,
         "universe": "b"
+    },
+    {
+        "title": "UA: jump over the stairs",
+        "panels": [
+            "107.1.png",
+            "107.2.png",
+            "107.3.gif"
+        ],
+        "prattle": [
+            "IT GOES ABOUT AS WELL AS YOU'D EXPECT. YOU SUPPOSE YOU AT LEAST GOT A LITTLE CLOSER TO THAT SOURCE OF <STRONG>THE VIBRANT AND BEAUTIFUL LIGHT OF LOVE</STRONG> UP THERE, THOUGH. BUT IT KIND OF JUST MAKES YOU FEEL WORSE.",
+            "YOUR <STRONG>INK-COATED HAMMER</STRONG> RATTLES AROUND IN YOUR <STRONG>INVENTORIUM</STRONG>, YET ANOTHER VICTIM TO YOUR LATEST PRATFALL."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "12",
+            "hour": "07",
+            "minute": "20",
+            "half": "PM",
+            "zone": "EST"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 98,
+        "universe": "a"
     }
 ]
