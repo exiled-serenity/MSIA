@@ -2423,8 +2423,34 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 108 ],
         "back": 98,
+        "universe": "a"
+    },
+    {
+        "title": "UA: smear ink on the wall with the hammer and swim up the resulting trail",
+        "panels": [
+            "108.1.png",
+            "108.2.png"
+        ],
+        "prattle": [
+            "That's a great idea! Unfortunately, though, the INVISIBLE HAMMER can only hold onto so much ink. Your trail has barely extended from its head before it meets an untimely end.",
+            "You slot the INVISIBLE HAMMER into your INVENTORIUM, lamenting the failure. Your OCTAKA MODUS is jangling at your side, and there's all this perfectly good ink just right sitting there inside your INK LAYER! There's gotta be some way to bridge the gap."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "17",
+            "hour": "12",
+            "minute": "55",
+            "half": "AM",
+            "zone": "EST"
+        },
+        "poster": "julia_pseudo",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ ],
+        "back": 107,
         "universe": "a"
     }
 ]

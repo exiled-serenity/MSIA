@@ -218,7 +218,7 @@ details.log {
     margin: 0 0 30px;
     padding: 1px;
     position: relative;
-    border: 1px dashed var(--logborder);
+    border: 0.1em dashed var(--logborder);
 }
 
 details.log summary {
