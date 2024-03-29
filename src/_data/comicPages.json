@@ -2418,7 +2418,7 @@
             "hour": "07",
             "minute": "20",
             "half": "PM",
-            "zone": "EST"
+            "zone": "EDT"
         },
         "poster": "p0psicles",
         "theme": "sarah",
@@ -2444,13 +2444,64 @@
             "hour": "12",
             "minute": "55",
             "half": "AM",
-            "zone": "EST"
+            "zone": "EDT"
         },
         "poster": "julia_pseudo",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 109 ],
         "back": 107,
         "universe": "a"
+    },
+    {
+        "title": "Plug that outlet in please",
+        "panels": [
+            "109.png"
+        ],
+        "prattle": [
+            "YOU PLUG THE <STRONG>OUTLET</STRONG> INTO THE <STRONG>WINDOW</STRONG>.",
+            "AND THEN, AS IF BY MAGIC, YOU ARE BESET ONCE MORE. BY THE BEAUTY OF THE SUN. SO LOVELY, SO WONDROUS, SO PRESENT. THE SHEER RESTITUDE BRINGS A TEAR TO YOUR EYE, PROBABLY. YOU DON'T REALLY FEEL LIKE CHECKING RIGHT NOW."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "29",
+            "hour": "12",
+            "minute": "00",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 108,
+        "universe": "a"
+    },
+    {
+        "title": "Plug that outlet in please",
+        "panels": [
+            "110.png"
+        ],
+        "prattle": [
+            "YOU WOULD LOVE TO DO THAT. EXCEPT THAT WHAT THE FUCK ARE YOU TALKING ABOUT.",
+            "DID YOU MEAN THE OUTLET THAT HAS BEEN IN PLAIN VIEW NEXT TO THAT <STRONG>VENT</STRONG> THIS ENTIRE TIME? BECAUSE THAT'S BEING USED. BY THE VENT.",
+            "SERIOUSLY, DID YOU WASH IN FROM SOME <STRONG>PARALLEL UNIVERSE</STRONG> OR SOMETHING? BECAUSE OH MY FUCKING COD THERE HAD BETTER NOT BE ANOTHER ONE OF THOSE TO CLEAN UP. THIS IS HARD ENOUGH TO MANAGE AS IT IS."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "29",
+            "hour": "12",
+            "minute": "00",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 106,
+        "universe": "b"
     }
 ]
