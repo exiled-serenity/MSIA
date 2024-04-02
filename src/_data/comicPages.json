@@ -2474,7 +2474,7 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 111 ],
         "back": 108,
         "universe": "a"
     },
@@ -2503,5 +2503,56 @@
         "next": [ ],
         "back": 106,
         "universe": "b"
+    },
+    {
+        "title": "UA: Go through window",
+        "panels": [
+            "111.png"
+        ],
+        "prattle": [
+            "You climb up into the WINDOW, careful to change into your SWIM-TYPE FORM in order to ease your journey SUNWARDS."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "30",
+            "hour": "06",
+            "minute": "37",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 112 ],
+        "back": 109,
+        "universe": "a"
+    },
+    {
+        "title": "UA: ミ:匚＞",
+        "panels": [
+            "112.1.png",
+            "112.2.png"
+        ],
+        "prattle": [
+            "You emerge from the face of some sort of WHIMSIFIED RECEPTACLE, to which the window seems to have been mounted, and discover that the sunset was, of course, just an image on a screen.",
+            "Not that you expected anything different. I mean, what, did you think there was just gonna be a path straight to the ACTUAL SURFACE down here? Please. If we had that, we wouldn't even be bothering with this WHOLE MESS, right? Not that you'd know anything about that. Not that you should.",
+            "Anyway, you hear some noises in THAT OTHER LANGUAGE just across the way. Probably something about BIG CAL or whatever her name was."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "03",
+            "day": "30",
+            "hour": "06",
+            "minute": "37",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ ],
+        "back": 111,
+        "universe": "a"
     }
 ]
