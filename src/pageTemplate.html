@@ -55,13 +55,15 @@ tags: comicPage
 
                     <nav class="pageNavigation">
                         {% if thisComicPage.next %}
+                            <div class="nextArrow ">
                             {% for index in thisComicPage.next %}
-                            <div class="nextArrow {{ pagination.pages[index].theme }}">
-                                <p> &gt; <a href="{{ globalData.rootDir }}{{ pagination.hrefs[index] }}">
+                            
+                                <p> &gt; <a href="{{ globalData.rootDir }}{{ pagination.hrefs[index] }}" class="{{ pagination.pages[index].theme }}">
                                     {{ pagination.pages[index].title }}
                                 </a></p>
-                            </div>
+                            
                             {% endfor %}
+                            </div>
                         {% elsif pagination.href.next %}
                         <div class="nextArrow {{ pagination.page.next.theme }}">
                             <p> &gt; <a href="{{ globalData.rootDir }}{{ pagination.href.next }}">

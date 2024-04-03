@@ -2396,7 +2396,7 @@
         "poster": "p0psicles",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 110 ],
         "back": 105,
         "universe": "b"
     },
@@ -2551,8 +2551,61 @@
         "poster": "p0psicles",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 113, 114 ],
         "back": 111,
+        "universe": "a"
+    },
+    {
+        "title": "UA: go to big cal!",
+        "panels": [
+            "113.png"
+        ],
+        "prattle": [
+            "YOU DECIDE TO THROW CAUTION TO THE WIND. AND CHASE AFTER <STRONG>THE OTHER ONE</STRONG> WITH ALL THE <STRONG>RECKLESS FUROR</STRONG> YOUR SMALL INKFISH BODY IS CAPABLE OF GENERATING. AFTER ALL. HOW HARD COULD IT BE. TO ACE AN EIGHT METER LONG JUMP IN WALK FORM. FROM AN EIGHTY STORY BUILDING. TO ANOTHER EIGHTY STORY BUILDING.",
+            "TURNS OUT IT'S PRETTY HARD. AND SO YOU PLUMMET TO YOUR DOOM IN COMICAL FASHION. BUT IF IT'S ANY CONSOLATION. YOUR DOOM AT LEAST MEANS THERE WILL BE NO <STRONG>UNIVERSE CHARLIE</STRONG>.",
+            "NOBODY WANTS A <STRONG>UNIVERSE CHARLIE</STRONG>.",
+            "くコ:彡 GO BACK"
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "11",
+            "minute": "39",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 112,
+        "universe": "a"
+    },
+    {
+        "title": "UA: WAIT. DON'T DO THAT.",
+        "panels": [
+            "114.png"
+        ],
+        "prattle": [
+            "YOU TAKE A MOMENT TO CONSIDER THAT TRYING TO MAKE A JUMP LIKE THAT WOULD PROBABLY GET YOU KILLED HORRIBLY. AT LEAST, IF YOU JUST RUN AND JUMP AT IT.",
+            "AH, YES, YOU THINK TO YOURSELF. THIS IS WHAT YOU ARE TALKING ABOUT. THIS IS THE KIND OF <STRONG>SMARTNESS</STRONG> AND <STRONG>INTUITIVITION</STRONG> THAT HAS ENABLED YOU TO SO FIRMLY CLASP YOUR JAGGED, HORRIBLE FINGERS AROUND WHAT CAN ONLY BE REFERRED TO AS THE <STRONG>ALPHA TIMELINE</STRONG>. YOU FEEL TRULY, TRULY PROUD.",
+            "ANYWAY, YOU CAN PROBABLY JUST GET OVER THERE BY SHOOTING SOME INK OR SOMETHING. SHOULDN'T BE TOO MUCH MORE <STRONG>WEIRD PUZZLE SHIT</STRONG> LEFT AFTER THAT."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "11",
+            "minute": "39",
+            "half": "AM",
+            "zone": "EDT"
+        },
+        "poster": "fridgebait",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 112,
         "universe": "a"
     }
 ]
