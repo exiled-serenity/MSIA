@@ -2604,8 +2604,84 @@
         "poster": "fridgebait",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 115 ],
         "back": 112,
+        "universe": "a"
+    },
+    {
+        "title": "UA: Jagged horrible fingers? Wait, look at your fingers, do you have inkling french fry fingers?",
+        "panels": [
+            "115.png"
+        ],
+        "prattle": [
+            "OKAY. FIRST OF ALL. WHAT THE SHELL IS A <STRONG>'FRENCH'</STRONG>. AND WHY DOES IT CONJURE THOUGHTS ABOUT SOMETHING CEASING TO BE ANNOYING.",
+            "SECOND OF ALL. INKLING FINGERS <STRONG>ARE</STRONG> JAGGED AND HORRIBLE, I THINK YOU'LL FIND. BUT WHATEVER. LOOK ALL YOU WANT.",
+            "THIRD. AND MOST IMPORTANTLY. YOUR <STRONG>JAGGED, HORRIBLE FINGERS</STRONG> ARE WAY TOO SHITTY TO REALLY DISCERN ANYTHING ABOUT THEM. SO THERE'S NO POINT. LOOKS LIKE YOU'LL JUST HAVE TO <STRONG>MOVE ON</STRONG>."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "09",
+            "minute": "15",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "julia_pseudo",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 116 ],
+        "back": 114,
+        "universe": "a"
+    },
+    {
+        "title": "UA: SCREAM.",
+        "panels": [
+            "116.gif"
+        ],
+        "prattle": [
+            "OH MY COD. AND JUST WHAT THE SHELL ARE YOU SCREAMING ABOUT.",
+            "WELL, WHATEVER. YOU GET IT ALL OUT OF YOUR SYSTEM, YOU GUESS. NOT THAT THAT REALLY MEANS MUCH BESIDES PUTTING YOUR <STRONG>HEART WAVE WHATEVER THING</STRONG> INTO A TIZZY, WHICH DOESN'T SEEM TO BE CAUSING ANY OTHER PROBLEMS. IT'S EVEN MAXING OUT YOUR <STRONG>OVATION SCORE</STRONG> FOR SOME REASON. SO GO AHEAD, SCREAM ALL YOU LIKE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "09",
+            "minute": "18",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 117 ],
+        "back": 115,
+        "universe": "a"
+    },
+    {
+        "title": "UA: also can you do that thing. With the ink",
+        "panels": [
+            "117.gif"
+        ],
+        "prattle": [
+            "YOU CEASE YOUR <STRONG>HYSTERICAL DALLYING</STRONG> AND GET BACK TO THE MATTER AT HAND. UNFORTUNATELY, YOU'VE STILL GOT <STRONG>INK TANK</STRONG> PROBLEMS.",
+            "'WOW, THIS IS SO TERRIBLE,' YOU THINK TO YOURSELF. 'IF ONLY THERE WERE SOMETHING I COULD UNLOCK USING THIS KEY I'M HOLDING,' YOU CONTINUE. 'PERHAPS EVEN SOMETHING WHICH HAS BEEN USED IN A SIMILAR CAPACITY BEFORE,' YOU NEEDLESSLY OVERCLARIFY. 'THAT WOULD SURE BE GREAT,' YOU CONCLUDE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "09",
+            "minute": "18",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 116,
         "universe": "a"
     }
 ]
