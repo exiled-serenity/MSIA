@@ -2680,8 +2680,32 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ ],
+        "next": [ 118 ],
         "back": 116,
+        "universe": "a"
+    },
+    {
+        "title": "UA: Go back to the other room",
+        "panels": [
+            "118.png"
+        ],
+        "prattle": [
+            "YOU RETURN TO THE OTHER ROOM. YOU'RE KIND OF SURPRISED THERE WEREN'T ANY <STRONG>OBNOXIOUS REVELATIONS</STRONG> BLOCKING YOU. LIKE THE WINDOW TURNS OUT TO BE FAKE. OR WE SUDDENLY CUT TO <STRONG>UNIVERSE CHARLIE</STRONG> OR SOMETHING. BUT I SUPPOSE WE ALL GET LUCKY SOMETIMES."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "13",
+            "hour": "01",
+            "minute": "55",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ ],
+        "back": 117,
         "universe": "a"
     }
 ]
