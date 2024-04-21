@@ -2551,7 +2551,7 @@
         "poster": "p0psicles",
         "theme": "lexi",
         "chapter": 3,
-        "next": [ 113, 114 ],
+        "next": [ 113, 115 ],
         "back": 111,
         "universe": "a"
     },
@@ -2583,9 +2583,32 @@
         "universe": "a"
     },
     {
-        "title": "UA: WAIT. DON'T DO THAT.",
+        "title": "UC: Exist.",
         "panels": [
-            "114.png"
+        ],
+        "prattle": [
+            "..."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "09",
+            "minute": "18",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
+        "next": [ 112 ],
+        "back": 113,
+        "universe": "c"
+    },
+    {
+        "title": "UA: DO NOT.",
+        "panels": [
+            "115.png"
         ],
         "prattle": [
             "YOU TAKE A MOMENT TO CONSIDER THAT TRYING TO MAKE A JUMP LIKE THAT WOULD PROBABLY GET YOU KILLED HORRIBLY. AT LEAST, IF YOU JUST RUN AND JUMP AT IT.",
@@ -2604,14 +2627,14 @@
         "poster": "fridgebait",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ 115 ],
+        "next": [ 116 ],
         "back": 112,
         "universe": "a"
     },
     {
         "title": "UA: Jagged horrible fingers? Wait, look at your fingers, do you have inkling french fry fingers?",
         "panels": [
-            "115.png"
+            "116.png"
         ],
         "prattle": [
             "OKAY. FIRST OF ALL. WHAT THE SHELL IS A <STRONG>'FRENCH'</STRONG>. AND WHY DOES IT CONJURE THOUGHTS ABOUT SOMETHING CEASING TO BE ANNOYING.",
@@ -2630,43 +2653,18 @@
         "poster": "julia_pseudo",
         "theme": "sarah",
         "chapter": 3,
-        "next": [ 116 ],
-        "back": 114,
-        "universe": "a"
-    },
-    {
-        "title": "UA: SCREAM.",
-        "panels": [
-            "116.gif"
-        ],
-        "prattle": [
-            "OH MY COD. AND JUST WHAT THE SHELL ARE YOU SCREAMING ABOUT.",
-            "WELL, WHATEVER. YOU GET IT ALL OUT OF YOUR SYSTEM, YOU GUESS. NOT THAT THAT REALLY MEANS MUCH BESIDES PUTTING YOUR <STRONG>HEART WAVE WHATEVER THING</STRONG> INTO A TIZZY, WHICH DOESN'T SEEM TO BE CAUSING ANY OTHER PROBLEMS. IT'S EVEN MAXING OUT YOUR <STRONG>OVATION SCORE</STRONG> FOR SOME REASON. SO GO AHEAD, SCREAM ALL YOU LIKE."
-        ],
-        "time": {
-            "year": "2024",
-            "month": "04",
-            "day": "02",
-            "hour": "09",
-            "minute": "18",
-            "half": "PM",
-            "zone": "EDT"
-        },
-        "poster": "p0psicles",
-        "theme": "sarah",
-        "chapter": 3,
         "next": [ 117 ],
         "back": 115,
         "universe": "a"
     },
     {
-        "title": "UA: also can you do that thing. With the ink",
+        "title": "UA: SCREAM.",
         "panels": [
             "117.gif"
         ],
         "prattle": [
-            "YOU CEASE YOUR <STRONG>HYSTERICAL DALLYING</STRONG> AND GET BACK TO THE MATTER AT HAND. UNFORTUNATELY, YOU'VE STILL GOT <STRONG>INK TANK</STRONG> PROBLEMS.",
-            "'WOW, THIS IS SO TERRIBLE,' YOU THINK TO YOURSELF. 'IF ONLY THERE WERE SOMETHING I COULD UNLOCK USING THIS KEY I'M HOLDING,' YOU CONTINUE. 'PERHAPS EVEN SOMETHING WHICH HAS BEEN USED IN A SIMILAR CAPACITY BEFORE,' YOU NEEDLESSLY OVERCLARIFY. 'THAT WOULD SURE BE GREAT,' YOU CONCLUDE."
+            "OH MY COD. AND JUST WHAT THE SHELL ARE YOU SCREAMING ABOUT.",
+            "WELL, WHATEVER. YOU GET IT ALL OUT OF YOUR SYSTEM, YOU GUESS. NOT THAT THAT REALLY MEANS MUCH BESIDES PUTTING YOUR <STRONG>HEART WAVE WHATEVER THING</STRONG> INTO A TIZZY, WHICH DOESN'T SEEM TO BE CAUSING ANY OTHER PROBLEMS. IT'S EVEN MAXING OUT YOUR <STRONG>OVATION SCORE</STRONG> FOR SOME REASON. SO GO AHEAD, SCREAM ALL YOU LIKE."
         ],
         "time": {
             "year": "2024",
@@ -2685,9 +2683,34 @@
         "universe": "a"
     },
     {
+        "title": "UA: also can you do that thing. With the ink",
+        "panels": [
+            "118.gif"
+        ],
+        "prattle": [
+            "YOU CEASE YOUR <STRONG>HYSTERICAL DALLYING</STRONG> AND GET BACK TO THE MATTER AT HAND. UNFORTUNATELY, YOU'VE STILL GOT <STRONG>INK TANK</STRONG> PROBLEMS.",
+            "'WOW, THIS IS SO TERRIBLE,' YOU THINK TO YOURSELF. 'IF ONLY THERE WERE SOMETHING I COULD UNLOCK USING THIS KEY I'M HOLDING,' YOU CONTINUE. 'PERHAPS EVEN SOMETHING WHICH HAS BEEN USED IN A SIMILAR CAPACITY BEFORE,' YOU NEEDLESSLY OVERCLARIFY. 'THAT WOULD SURE BE GREAT,' YOU CONCLUDE."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "02",
+            "hour": "09",
+            "minute": "18",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "sarah",
+        "chapter": 3,
+        "next": [ 119 ],
+        "back": 117,
+        "universe": "a"
+    },
+    {
         "title": "UA: Go back to the other room",
         "panels": [
-            "118.png"
+            "119.png"
         ],
         "prattle": [
             "YOU RETURN TO THE OTHER ROOM. YOU'RE KIND OF SURPRISED THERE WEREN'T ANY <STRONG>OBNOXIOUS REVELATIONS</STRONG> BLOCKING YOU. LIKE THE WINDOW TURNS OUT TO BE FAKE. OR WE SUDDENLY CUT TO <STRONG>UNIVERSE CHARLIE</STRONG> OR SOMETHING. BUT I SUPPOSE WE ALL GET LUCKY SOMETIMES."
@@ -2704,8 +2727,34 @@
         "poster": "p0psicles",
         "theme": "sarah",
         "chapter": 3,
+        "next": [ 120 ],
+        "back": 118,
+        "universe": "a"
+    },
+    {
+        "title": "UA: Slowly spread the ink from the window to the wall above the stairs.",
+        "panels": [
+            "120.png"
+        ],
+        "prattle": [
+            "What ink?",
+            "You mean the ink you soaked up with your INVISIBLE HAMMER just now? Which is why it's slightly more visible again? Yeah, that happened, not that you can remember doing that, but not remembering things isn't exactly new for you.",
+            "So whatever. It's not as if anything around you changed just now. Besides your CONSTRIFICATION COMPASS, of course, but who even knows what the shell that's supposed to mean."
+        ],
+        "time": {
+            "year": "2024",
+            "month": "04",
+            "day": "20",
+            "hour": "05",
+            "minute": "21",
+            "half": "PM",
+            "zone": "EDT"
+        },
+        "poster": "p0psicles",
+        "theme": "lexi",
+        "chapter": 3,
         "next": [ ],
-        "back": 117,
+        "back": 119,
         "universe": "a"
     }
 ]
